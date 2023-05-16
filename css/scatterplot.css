@@ -1,0 +1,36 @@
+/* Marks */
+#scatterplot .point {
+    fill-opacity: 0.7;
+}
+#scatterplot .point:hover {
+    stroke: #333;
+}
+#scatterplot .point.selected {
+    stroke: black;
+    fill-opacity: 1;
+    stroke-width: 2px;
+}
+
+/* Axes */
+#scatterplot .axis line {
+    fill: none;
+    stroke: #ddd;
+    shape-rendering: crispEdges;
+}
+#scatterplot .axis text {
+    font-size: 10px;
+    fill: #333;
+}
+#scatterplot .axis-title {
+    font-size: 13px;
+    fill: #888;
+}
+#scatterplot .axis path {
+    stroke: #ddd;
+}
+#scatterplot .axis.legend-axis text {
+    font-size: 11px;
+}
+#scatterplot .tick line {
+    stroke-dasharray: 2,2;
+}

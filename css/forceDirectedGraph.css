@@ -1,0 +1,68 @@
+/* Layout */
+#network-vis {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Links */
+#network-vis .link {
+    stroke: lightgray;
+    stroke-width: 1px;
+}
+
+/* Investor node labels */
+#network-vis .node-label {
+    dominant-baseline: middle;
+    text-anchor: middle;
+    pointer-events: none;
+}
+
+/* Nodes */
+#network-vis .company {
+    stroke: #cccccc;
+    fill: #a9abb0;
+}
+#network-vis .investor {
+    stroke: #666666;
+    fill: white;
+}
+#network-vis .node:hover {
+    stroke: black;
+}
+
+/* Highlighted and selected styling (nodes, links, and labels) */
+#network-vis .highlighted {
+    stroke: #303030;
+    stroke-width: 1px;
+}
+
+#network-vis .node.selected {
+    stroke: black;
+    stroke-width: 2px;
+}
+
+#network-vis text.selected {
+    font-weight: bold;
+}
+
+/* Legend */
+#network-vis .legend-container {
+    border: solid #e1e1e1;
+    padding: 10px 10px 10px 10px;
+    border-radius: 8px;
+}
+
+#network-vis .legend-title {
+    font-weight: bold;
+    dominant-baseline: hanging;
+    text-transform: uppercase;
+}
+#network-vis .legend-node-label {
+    text-anchor: middle;
+    dominant-baseline: middle;
+}
+
+/* Search UI */
+#network-search-feedback {
+    color: firebrick;
+}

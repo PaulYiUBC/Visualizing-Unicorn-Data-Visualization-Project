@@ -1,0 +1,105 @@
+/* Marks */
+#heatmap .h-label {
+    font-size: 11px;
+    fill: #333;
+}
+#heatmap .h-cell {
+    shape-rendering: crispEdges;
+}
+#heatmap .h-cell:hover {
+    transition: stroke 200ms ease-in-out;
+    stroke: #333;
+}
+#heatmap .h-cell-na {
+    stroke: #ddd;
+    pointer-events: none;
+}
+#heatmap .point {
+    opacity: 0.5;
+    fill: #2a8d46;
+}
+#heatmap .point:hover {
+    stroke: #333;
+}
+
+/* Axes */
+#heatmap .axis line {
+    fill: none;
+    stroke: #ddd;
+    shape-rendering: crispEdges;
+}
+#heatmap .axis text {
+    font-size: 13px;
+    fill: #6b6b6b;
+}
+#heatmap .axis-title {
+    font-size: 13px;
+    fill: #888;
+}
+#heatmap .y-axis .tick:first-child line {
+    stroke: #b1b1b1;
+}
+#heatmap .y-axis .tick:first-child text {
+    display: none;
+}
+#heatmap .x-axis .tick:first-child line {
+    display: none;
+}
+#heatmap .axis path {
+    display: none;
+}
+
+/* Legend */
+#heatmap .legend {
+    margin: 20px 0;
+    list-style: none;
+    padding: 0;
+}
+#heatmap .legend-btn {
+    display: inline-block;
+    margin: 0 20px 0 0;
+    cursor: pointer;
+    transition: all ease-in-out 200ms;
+}
+#heatmap .legend-btn:hover.legend-btn.inactive:hover  {
+    opacity: 0.7;
+}
+#heatmap .legend-btn.inactive {
+    opacity: 0.5;
+}
+#heatmap .legend-symbol {
+    width: 12px;
+    height: 12px;
+    margin-right: 3px;
+    display: inline-block;
+}
+#heatmap .legend-btn[data-difficulty="Easy"] .legend-symbol {
+    background: #d3eecd;
+}
+#heatmap .legend-btn[data-difficulty="Intermediate"] .legend-symbol {
+    background: #7bc77e;
+}
+#heatmap .legend-btn[data-difficulty="Difficult"] .legend-symbol {
+    background: #2a8d46;
+}
+
+/* Axes */
+#heatmap .axis line {
+    fill: none;
+    stroke: #ddd;
+    shape-rendering: crispEdges;
+}
+#heatmap .axis text {
+    font-size: 11px;
+    fill: #333;
+}
+#heatmap .axis-title {
+    font-size: 13px;
+    fill: #888;
+}
+#heatmap .axis path {
+    stroke: #ddd;
+}
+#heatmap .axis.legend-axis text {
+    font-size: 11px;
+}

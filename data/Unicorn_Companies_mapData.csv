@@ -1,0 +1,1208 @@
+id,company_name,country,country_code,city,lat,lon,industry
+136,Airwallex,Australia,AUS,Melbourne,-37.813611,144.963056,Fintech
+767,LinkTree,Australia,AUS,Melbourne,-37.813611,144.963056,Internet software & services
+375,Uala,Argentina,ARG,Buenos Aires,-34.603722,-58.381592,Fintech
+5,Canva,Australia,AUS,Surry Hills,-33.886111,151.211111,Internet software & services
+367,Immutable,Australia,AUS,Sydney,-33.8727635,151.2053446,Fintech
+584,SafetyCulture,Australia,AUS,Sydney,-33.8727635,151.2053446,Internet software & services
+644,NotCo,Chile,CHL,Santiago,-33.45,-70.666667,Consumer & retail
+1161,Betterfly,Chile,CHL,Santiago,-33.45,-70.666667,Artificial intelligence
+440,GO1,Australia,AUS,Brisbane,-27.4700266,153.0229773,Internet software & services
+1095,Mammoth Biosciences,United States,USA,Brisbane,-27.4700266,153.0229773,Health
+972,Cell C,South Africa,ZAF,Midrand,-25.999167,28.126389,Mobile & telecommunications
+658,Olist,Brazil,BRA,Curitiba,-25.4283563,-49.2732515,E-commerce & direct-to-consumer
+1006,EBANX,Brazil,BRA,Curitiba,-25.4283563,-49.2732515,Fintech
+133,C6 Bank,Brazil,BRA,Sao Paulo,-23.5486657,-46.6382522,Fintech
+157,Creditas,Brazil,BRA,Sao Paulo,-23.5486657,-46.6382522,Fintech
+284,Nuvemshop,Brazil,BRA,Sao Paulo,-23.5486657,-46.6382522,E-commerce & direct-to-consumer
+292,Wildlife Studios,Brazil,BRA,Sao Paulo,-23.5486657,-46.6382522,Other
+321,Loft,Brazil,BRA,Sao Paulo,-23.5486657,-46.6382522,E-commerce & direct-to-consumer
+350,Unico,Brazil,BRA,Sao Paulo,-23.5486657,-46.6382522,Artificial intelligence
+424,CloudWalk,Brazil,BRA,Sao Paulo,-23.5486657,-46.6382522,Fintech
+476,Loggi,Brazil,BRA,Sao Paulo,-23.5486657,-46.6382522,"Supply chain, logistics, & delivery"
+674,Dock,Brazil,BRA,Sao Paulo,-23.5486657,-46.6382522,Fintech
+730,Neon,Brazil,BRA,Sao Paulo,-23.5486657,-46.6382522,Fintech
+983,Movile,Brazil,BRA,Sao Paulo,-23.5486657,-46.6382522,Mobile & telecommunications
+1117,CargoX,Brazil,BRA,Sao Paulo,-23.5486657,-46.6382522,"Supply chain, logistics, & delivery"
+132,QuintoAndar,Brazil,BRA,Campinas,-22.900914,-47.057294,E-commerce & direct-to-consumer
+1021,MadeiraMadeira,Brazil,BRA,Parana,-12.615,-47.882778,E-commerce & direct-to-consumer
+14,J&T Express,Indonesia,IDN,Jakarta,-6.2,106.816666,"Supply chain, logistics, & delivery"
+286,Traveloka,Indonesia,IDN,Jakarta,-6.2,106.816666,Travel
+503,Akulaku,Indonesia,IDN,Jakarta,-6.2,106.816666,E-commerce & direct-to-consumer
+862,DANA,Indonesia,IDN,Jakarta,-6.2,106.816666,Fintech
+1097,Xendit,Indonesia,IDN,Jakarta,-6.2,106.816666,Fintech
+1106,Ajaib,Indonesia,IDN,Jakarta,-6.2,106.816666,Fintech
+1151,Kopi Kenangan,Indonesia,IDN,Jakarta,-6.2,106.816666,Consumer & retail
+619,Kushki,Ecuador,ECU,Quito,-0.214945,-78.5132,Fintech
+241,HyalRoute,Singapore,SGP,Singapore,1.29027,103.851959,Mobile & telecommunications
+346,Moglix,Singapore,SGP,Singapore,1.29027,103.851959,E-commerce & direct-to-consumer
+372,Coda Payments,Singapore,SGP,Singapore,1.29027,103.851959,Fintech
+488,Advance Intelligence Group,Singapore,SGP,Singapore,1.29027,103.851959,Artificial intelligence
+500,Trax,Singapore,SGP,Singapore,1.29027,103.851959,Artificial intelligence
+558,FinAccel,Singapore,SGP,Singapore,1.29027,103.851959,Fintech
+615,bolttech,Singapore,SGP,Singapore,1.29027,103.851959,Fintech
+887,Carousell,Singapore,SGP,Singapore,1.29027,103.851959,E-commerce & direct-to-consumer
+1031,PatSnap,Singapore,SGP,Singapore,1.29027,103.851959,Internet software & services
+1059,Matrixport,Singapore,SGP,Singapore,1.29027,103.851959,Fintech
+1064,Carro,Singapore,SGP,Singapore,1.29027,103.851959,E-commerce & direct-to-consumer
+1083,NIUM,Singapore,SGP,Singapore,1.29027,103.851959,Fintech
+1103,Ninja Van,Singapore,SGP,Singapore,1.29027,103.851959,"Supply chain, logistics, & delivery"
+1153,ONE,Singapore,SGP,Singapore,1.29027,103.851959,Internet software & services
+567,Carsome,Malaysia,MYS,Selangor,3.072751,101.524803,E-commerce & direct-to-consumer
+129,Rappi,Colombia,COL,Bogota,4.624335,-74.063644,"Supply chain, logistics, & delivery"
+855,LifeMiles,Colombia,COL,Bogota,4.624335,-74.063644,Other
+1197,Habi,Colombia,COL,Bogota,4.624335,-74.063644,Fintech
+482,Opay,Nigeria,NGA,Lagos,6.4511367,3.3883962,Fintech
+305,Sky Mavis,Vietnam,VNM,Ho Chi Minh City,10.762622,106.660172,Internet software & services
+403,MoMo,Vietnam,VNM,Ho Chi Minh City,10.762622,106.660172,Fintech
+522,CoinSwitch Kuber,India,IND,Bangalore,12.966667,77.566667,Fintech
+37,BYJU's,India,IND,Bengaluru,12.966667,77.566667,Edtech
+77,Swiggy,India,IND,Bengaluru,12.966667,77.566667,"Supply chain, logistics, & delivery"
+86,Razorpay,India,IND,Bengaluru,12.966667,77.566667,Fintech
+104,Ola Cabs,India,IND,Bengaluru,12.966667,77.566667,Auto & transportation
+106,CRED,India,IND,Bengaluru,12.966667,77.566667,Fintech
+148,Ola Electric Mobility,India,IND,Bengaluru,12.966667,77.566667,Auto & transportation
+151,VerSe Innovation,India,IND,Bengaluru,12.966667,77.566667,Mobile & telecommunications
+152,ShareChat,India,IND,Bengaluru,12.966667,77.566667,Internet software & services
+155,Meesho,India,IND,Bengaluru,12.966667,77.566667,Internet software & services
+214,Digit Insurance,India,IND,Bengaluru,12.966667,77.566667,Fintech
+254,Unacademy,India,IND,Bengaluru,12.966667,77.566667,Edtech
+282,Udaan,India,IND,Bengaluru,12.966667,77.566667,"Supply chain, logistics, & delivery"
+308,Groww,India,IND,Bengaluru,12.966667,77.566667,Fintech
+364,Zetwerk,India,IND,Bengaluru,12.966667,77.566667,Internet software & services
+376,Mobile Premier League,India,IND,Bengaluru,12.966667,77.566667,Internet software & services
+540,Slice,India,IND,Bengaluru,12.966667,77.566667,Fintech
+574,DealShare,India,IND,Bengaluru,12.966667,77.566667,E-commerce & direct-to-consumer
+657,CureFit,India,IND,Bengaluru,12.966667,77.566667,Health
+693,Amagi,India,IND,Bengaluru,12.966667,77.566667,Internet software & services
+694,Amagi,India,IND,Bengaluru,12.966667,77.566667,Internet software & services
+835,LivSpace,India,IND,Bengaluru,12.966667,77.566667,E-commerce & direct-to-consumer
+888,apna,India,IND,Bengaluru,12.966667,77.566667,Internet software & services
+891,Acko General Insurance,India,IND,Bengaluru,12.966667,77.566667,Fintech
+926,BlackBuck,India,IND,Bengaluru,12.966667,77.566667,"Supply chain, logistics, & delivery"
+951,InMobi,India,IND,Bengaluru,12.966667,77.566667,Mobile & telecommunications
+1104,Vedantu,India,IND,Bengaluru,12.966667,77.566667,Edtech
+1107,Licious,India,IND,Bengaluru,12.966667,77.566667,E-commerce & direct-to-consumer
+1128,Mensa Brands,India,IND,Bengaluru,12.966667,77.566667,Other
+1134,NoBroker,India,IND,Bengaluru,12.966667,77.566667,Internet software & services
+1168,Hasura,India,IND,Bengaluru,12.966667,77.566667,Internet software & services
+1193,Open,India,IND,Bengaluru,12.966667,77.566667,Fintech
+1203,LeadSquared,India,IND,Bengaluru,12.966667,77.566667,Internet software & services
+766,Yubi,India,IND,Chennai,13.066956,80.1693,Fintech
+651,Ascend Money,Thailand,THA,Bangkok,13.736717,100.523186,Fintech
+937,LINE MAN Wongnai,Thailand,THA,Bangkok,13.736717,100.523186,E-commerce & direct-to-consumer
+1024,Flash Express,Thailand,THA,Bangkok,13.736717,100.523186,"Supply chain, logistics, & delivery"
+974,Revolution Precrafted,Philippines,PHL,Manila,14.5822592,120.9748038,Other
+561,Wave,Senegal,SEN,Dakar,14.692778,-17.446667,Fintech
+1158,Darwinbox,India,IND,Hyderabad,17.366,78.476,Internet software & services
+426,FirstCry,India,IND,Pune,18.520278,73.856667,E-commerce & direct-to-consumer
+666,ElasticRun,India,IND,Pune,18.520278,73.856667,"Supply chain, logistics, & delivery"
+711,Rebel Foods,India,IND,Pune,18.520278,73.856667,E-commerce & direct-to-consumer
+718,OneCard,India,IND,Pune,18.520278,73.856667,Fintech
+836,Xpressbees,India,IND,Pune,18.520278,73.856667,"Supply chain, logistics, & delivery"
+78,Dream11,India,IND,Mumbai,18.975,72.825833,Internet software & services
+102,National Stock Exchange of India,India,IND,Mumbai,18.975,72.825833,Fintech
+257,Upstox,India,IND,Mumbai,18.975,72.825833,Fintech
+273,Eruditus Executive Education,India,IND,Mumbai,18.975,72.825833,Edtech
+370,Games24x7,India,IND,Mumbai,18.975,72.825833,Internet software & services
+506,UpGrad,India,IND,Mumbai,18.975,72.825833,Edtech
+719,boAT,India,IND,Mumbai,18.975,72.825833,Consumer & retail
+828,MyGlamm,India,IND,Mumbai,18.975,72.825833,E-commerce & direct-to-consumer
+908,Purplle,India,IND,Mumbai,18.975,72.825833,E-commerce & direct-to-consumer
+1154,Fractal Analytics,India,IND,Mumbai,18.975,72.825833,Data management & analytics
+897,LEAD,India,IND,Andheri,19.1121216,72.8676758,Edtech
+65,Kavak,Mexico,MEX,Lerma de Villada,19.284722,-99.511944,E-commerce & direct-to-consumer
+358,Infra.Market,India,IND,Thane,19.4305248,72.965586,E-commerce & direct-to-consumer
+412,Bitso,Mexico,MEX,Mexico City,19.432608,-99.133209,Fintech
+475,Clip,Mexico,MEX,Mexico City,19.432608,-99.133209,Fintech
+755,Konfio,Mexico,MEX,Mexico City,19.432608,-99.133209,Fintech
+831,Merama,Mexico,MEX,Mexico City,19.432608,-99.133209,E-commerce & direct-to-consumer
+1136,Clara,Mexico,MEX,Mexico City,19.432608,-99.133209,Fintech
+425,CoinDCX,India,IND,Maharashtra,19.7515,75.7139,Fintech
+323,Gokin Solar,China,CHN,Zhuhai,22.276944,113.567778,Other
+733,Klook,Hong Kong,HKG,Central,22.281944,114.158056,Travel
+315,Amber Group,China,HKG,Hong Kong,22.302711,114.177216,Fintech
+975,WeLab,China,HKG,Hong Kong,22.302711,114.177216,Fintech
+1092,Cider,China,HKG,Hong Kong,22.302711,114.177216,E-commerce & direct-to-consumer
+44,Lalamove,Hong Kong,HKG,Cheung Sha Wan,22.302711,114.177216,"Supply chain, logistics, & delivery"
+437,Babel Finance,Hong Kong,HKG,Hong Kong,22.302711,114.177216,Fintech
+438,Trendy Group International,Hong Kong,HKG,Kowloon,22.316667,114.183333,Consumer & retail
+3,SHEIN,China,CHN,Shenzhen,22.55,114.1,E-commerce & direct-to-consumer
+17,DJI Innovations,China,CHN,Shenzhen,22.55,114.1,Hardware
+55,HEYTEA,China,CHN,Shenzhen,22.55,114.1,Other
+112,Royole Corporation,China,CHN,Shenzhen,22.55,114.1,Hardware
+171,UBTECH Robotics,China,CHN,Shenzhen,22.55,114.1,Hardware
+268,Dadi Cinema,China,CHN,Shenzhen,22.55,114.1,Other
+444,Tubatu.com,China,CHN,Shenzhen,22.55,114.1,E-commerce & direct-to-consumer
+459,Xingyun Group,China,CHN,Shenzhen,22.55,114.1,E-commerce & direct-to-consumer
+479,XtalPi,China,CHN,Shenzhen,22.55,114.1,Artificial intelligence
+683,Coocaa,China,CHN,Shenzhen,22.55,114.1,Hardware
+706,Hive Box,China,CHN,Shenzhen,22.55,114.1,"Supply chain, logistics, & delivery"
+737,Jaguar Microsystems,China,CHN,Shenzhen,22.55,114.1,Hardware
+780,JMGO,China,CHN,Shenzhen,22.55,114.1,Hardware
+819,SmartMore,China,CHN,Shenzhen,22.55,114.1,Artificial Intelligence
+955,Lamabang,China,CHN,Shenzhen,22.55,114.1,E-commerce & direct-to-consumer
+964,iCarbonX,China,CHN,Shenzhen,22.55,114.1,Artificial intelligence
+973,YH Global,China,CHN,Shenzhen,22.55,114.1,"Supply chain, logistics, & delivery"
+997,Intellifusion,China,CHN,Shenzhen,22.55,114.1,Artificial intelligence
+1063,EcoFlow,China,CHN,Shenzhen,22.55,114.1,Hardware
+1066,Xiaoe Tech,China,CHN,Shenzhen,22.55,114.1,Internet software & services
+1007,KK Group,China,CHN,Dongguan,23.033333,113.716667,E-commerce & direct-to-consumer
+176,WeRide,China,CHN,Guangzhou,23.1290798,113.2643585,Auto & transportation
+734,Yaoshibang,China,CHN,Guangzhou,23.1290798,113.2643585,Health
+765,TUNGEE,China,CHN,Guangzhou,23.1290798,113.2643585,Artificial Intelligence
+777,WTOIP,China,CHN,Guangzhou,23.1290798,113.2643585,Internet software & services
+779,Greater Bay Technology,China,CHN,Guangzhou,23.1290798,113.2643585,Hardware
+355,Vista Global,United Arab Emirates,ARE,Dubai,25.276987,55.296249,Other
+610,Kitopi,United Arab Emirates,ARE,Dubai,25.276987,55.296249,"Supply chain, logistics, & delivery"
+1010,Emerging Markets Property Group,United Arab Emirates,ARE,Dubai,25.276987,55.296249,Other
+841,stori,Mexico,MEX,Juarez,25.646225,-100.090881,Fintech
+885,Nowports,Mexico,MEX,Monterrey,25.6828,-100.311638,"Supply chain, logistics, & delivery"
+213,Yuga Labs,United States,USA,Miami,25.775084,-80.194702,Internet software & services
+256,MoonPay,United States,USA,Miami,25.775084,-80.194702,Fintech
+452,Kaseya,United States,USA,Miami,25.775084,-80.194702,Cybersecurity
+472,Pipe,United States,USA,Miami,25.775084,-80.194702,Fintech
+695,Papa,United States,USA,Miami,25.775084,-80.194702,Health
+994,REEF Technology,United States,USA,Miami,25.775084,-80.194702,"Supply chain, logistics, & delivery"
+490,Magic Leap,United States,USA,Plantation,26.1282759,-80.2423741,Hardware
+528,Material Bank,United States,USA,Boca Raton,26.368611,-80.1,E-commerce & direct-to-consumer
+969,Modernizing Medicine,United States,USA,Boca Raton,26.368611,-80.1,Health
+999,SITECH DEV,China,CHN,Guiyang,26.65,106.633333,Other
+827,CarDekho,India,IND,Jaipur,26.9210387,75.7943593,E-commerce & direct-to-consumer
+913,Cirkul,United States,USA,Sarasota,27.337222,-82.535278,Consumer & retail
+906,PhysicsWallah,India,IND,Uttar Pradesh,27.5706,80.0982,Edtech
+1140,ReliaQuest,United States,USA,Tampa,27.947423,-82.458776,Cybersecurity
+609,Wenheyou,China,CHN,Changsha,28.196111,112.972222,Other
+34,Xingsheng Selected,China,CHN,Changsha,28.196111,112.972222,E-commerce & direct-to-consumer
+1028,WeBull,China,CHN,Changsha,28.196111,112.972222,Fintech
+173,Lenskart,India,IND,Faridabad,28.4148834,77.30969,E-commerce & direct-to-consumer
+144,OfBusiness,India,IND,Gurgaon,28.47,77.03,E-commerce & direct-to-consumer
+266,Cars24,India,IND,Gurgaon,28.47,77.03,E-commerce & direct-to-consumer
+383,PolicyBazaar,India,IND,Gurgaon,28.47,77.03,Fintech
+428,Urban Company,India,IND,Gurgaon,28.47,77.03,E-commerce & direct-to-consumer
+915,Rivigo,India,IND,Gurgaon,28.47,77.03,"Supply chain, logistics, & delivery"
+916,Mamaearth,India,IND,Gurgaon,28.47,77.03,E-commerce & direct-to-consumer
+62,OYO Rooms,India,IND,Gurugram,28.47,77.03,Travel
+544,Spinny,India,IND,Gurugram,28.47,77.03,E-commerce & direct-to-consumer
+830,Pristyn Care,India,IND,Gurugram,28.47,77.03,Health
+1113,MobiKwik,India,IND,Gurugram,28.47,77.03,Fintech
+435,Jeeves,United States,USA,Orlando,28.538331,-81.378879,Fintech
+146,Pine Labs,India,IND,Noida,28.5846687,77.3520063,Fintech
+322,BharatPe,India,IND,New Delhi,28.613889,77.208889,Fintech
+748,Shiprocket,India,IND,New Delhi,28.613889,77.208889,"Supply chain, logistics, & delivery"
+896,GlobalBees,India,IND,New Delhi,28.613889,77.208889,E-commerce & direct-to-consumer
+948,Snapdeal,India,IND,New Delhi,28.613889,77.208889,E-commerce & direct-to-consumer
+575,Zhubajie,China,CHN,Chongqing,29.439325,106.887703,Internet software & services
+1053,Zihaiguo,China,CHN,Chongqing,29.439325,106.887703,Consumer & retail
+283,HighRadius,United States,USA,Houston,29.762778,-95.383056,Fintech
+516,Solugen,United States,USA,Houston,29.762778,-95.383056,Other
+1025,Axiom Space,United States,USA,Houston,29.762778,-95.383056,Other
+930,MNT-Halan,Egypt,EGY,Cairo,30.0434879,31.2352919,Fintech
+94,We Doctor,China,CHN,Hangzhou,30.25,120.166667,Health
+287,SouChe Holdings,China,CHN,Hangzhou,30.25,120.166667,E-commerce & direct-to-consumer
+378,Cgtz,China,CHN,Hangzhou,30.25,120.166667,Fintech
+455,Kujiale,China,CHN,Hangzhou,30.25,120.166667,Internet software & services
+580,Cao Cao Mobility,China,CHN,Hangzhou,30.25,120.166667,Auto & transportation
+625,DT Dream,China,CHN,Hangzhou,30.25,120.166667,Data management & analytics
+628,JOLLY Information Technology,China,CHN,Hangzhou,30.25,120.166667,E-commerce & direct-to-consumer
+691,Valgen Medtech,China,CHN,Hangzhou,30.25,120.166667,Health
+742,Tongdun Technology,China,CHN,Hangzhou,30.25,120.166667,Cybersecurity
+795,Shulan Health,China,CHN,Hangzhou,30.25,120.166667,Health
+927,Leap Motor,China,CHN,Hangzhou,30.25,120.166667,Auto & transportation
+954,BeiBei,China,CHN,Hangzhou,30.25,120.166667,E-commerce & direct-to-consumer
+977,Dxy.cn,China,CHN,Hangzhou,30.25,120.166667,Health
+985,Wacai,China,CHN,Hangzhou,30.25,120.166667,Mobile & telecommunications
+1037,Hyperchain,China,CHN,Hangzhou,30.25,120.166667,Fintech
+1091,1KMXC,China,CHN,Hangzhou,30.25,120.166667,Hardware
+320,Workrise,United States,USA,Austin,30.264979,-97.746598,Internet software & services
+328,Nutrabolt,United States,USA,Austin,30.264979,-97.746598,Consumer & retail
+566,ZenBusiness,United States,USA,Austin,30.264979,-97.746598,Fintech
+604,Icon,United States,USA,Austin,30.264979,-97.746598,Hardware
+620,Jasper,United States,USA,Austin,30.264979,-97.746598,Artificial intelligence
+699,SparkCognition,United States,USA,Austin,30.264979,-97.746598,Artificial intelligence
+751,Everly Health,United States,USA,Austin,30.264979,-97.746598,Health
+845,Colossal,United States,USA,Austin,30.264979,-97.746598,Health
+928,Wheel,United States,USA,Austin,30.264979,-97.746598,Health
+932,Atmosphere,United States,USA,Austin,30.264979,-97.746598,Other
+966,Kendra Scott,United States,USA,Austin,30.264979,-97.746598,Consumer & retail
+1038,The Zebra,United States,USA,Austin,30.264979,-97.746598,E-commerce & direct-to-consumer
+1139,Iodine Software,United States,USA,Austin,30.264979,-97.746598,Data management & analytics
+1181,FLASH,United States,USA,Austin,30.264979,-97.746598,Fintech
+10,Fanatics,United States,USA,Jacksonville,30.336944,-81.661389,E-commerce & direct-to-consumer
+124,The Boring Company,United States,USA,Pflugerville,30.446111,-97.623889,Other
+870,Juanpi,China,CHN,Wuhan,30.583333,114.283333,E-commerce & direct-to-consumer
+216,Medlinker,China,CHN,Chengdu,30.658611,104.064722,Health
+348,Xinchao Media,China,CHN,Chengdu,30.658611,104.064722,Internet software & services
+605,Fresh Life Style Supply Chain Management,China,CHN,Chengdu,30.658611,104.064722,"Supply chain, logistics, & delivery"
+684,Juma Peisong,China,CHN,Chengdu,30.658611,104.064722,"Supply chain, logistics, & delivery"
+1041,Fiture,China,CHN,Chengdu,30.658611,104.064722,Health
+682,Huasun,China,CHN,Xuancheng,30.933333,118.733333,Other
+1141,Pet Circle,Australia,AUS,Alexandria,31.1977318,29.8925444,E-commerce & direct-to-consumer
+13,Xiaohongshu,China,CHN,Shanghai,31.2304,121.4737,E-commerce & direct-to-consumer
+38,ZongMu Technology,China,CHN,Shanghai,31.2304,121.4737,Auto & transportation
+135,Hello TransTech,China,CHN,Shanghai,31.2304,121.4737,Auto & transportation
+259,Youxia Motors,China,CHN,Shanghai,31.2304,121.4737,Auto & transportation
+334,Hozon Auto,China,CHN,Shanghai,31.2304,121.4737,Auto & transportation
+396,Biren Technology,China,CHN,Shanghai,31.2304,121.4737,Hardware
+418,Huaqin Telecom Technology,China,CHN,Shanghai,31.2304,121.4737,Mobile & telecommunications
+420,YITU Technology,China,CHN,Shanghai,31.2304,121.4737,Artificial intelligence
+464,Guoquan Shihui,China,CHN,Shanghai,31.2304,121.4737,Consumer & retail
+487,Black Sesame Technologies,China,CHN,Shanghai,31.2304,121.4737,Artificial intelligence
+509,ROX Motor,China,CHN,Shanghai,31.2304,121.4737,Auto & transportation
+520,eDaili,China,CHN,Shanghai,31.2304,121.4737,E-commerce & direct-to-consumer
+530,ENOVATE,China,CHN,Shanghai,31.2304,121.4737,Auto & transportation
+542,AIWAYS,China,CHN,Shanghai,31.2304,121.4737,Auto & transportation
+608,Iluvatar CoreX,China,CHN,Shanghai,31.2304,121.4737,Hardware
+612,Ximalaya FM,China,CHN,Shanghai,31.2304,121.4737,Mobile & telecommunications
+623,Mofang Living,China,CHN,Shanghai,31.2304,121.4737,E-commerce & direct-to-consumer
+626,Changingedu,China,CHN,Shanghai,31.2304,121.4737,Edtech
+641,YunQuNa,China,CHN,Shanghai,31.2304,121.4737,"Supply chain, logistics, & delivery"
+678,Bordrin Motors,China,CHN,Shanghai,31.2304,121.4737,Auto & transportation
+685,Ouyeel,China,CHN,Shanghai,31.2304,121.4737,Internet software & services
+732,DeepBlue Technology,China,CHN,Shanghai,31.2304,121.4737,Artificial intelligence
+752,Manner,China,CHN,Shanghai,31.2304,121.4737,Other
+794,Enflame,China,CHN,Shanghai,31.2304,121.4737,Hardware
+805,Yiguo,China,CHN,Shanghai,31.2304,121.4737,"Supply chain, logistics, & delivery"
+849,Yimidida,China,CHN,Shanghai,31.2304,121.4737,"Supply chain, logistics, & delivery"
+852,Tuhu,China,CHN,Shanghai,31.2304,121.4737,Auto & transportation
+881,Qingting FM,China,CHN,Shanghai,31.2304,121.4737,Internet software & services
+912,56PINGTAI,China,CHN,Shanghai,31.2304,121.4737,"Supply chain, logistics, & delivery"
+952,LinkSure Network,China,CHN,Shanghai,31.2304,121.4737,Mobile & telecommunications
+961,HuJiang,China,CHN,Shanghai,31.2304,121.4737,Edtech
+962,iTutorGroup,China,CHN,Shanghai,31.2304,121.4737,Edtech
+970,Zhaogang,China,CHN,Shanghai,31.2304,121.4737,E-commerce & direct-to-consumer
+971,DianRong,China,CHN,Shanghai,31.2304,121.4737,E-commerce & direct-to-consumer
+987,Banma Network Technologies,China,CHN,Shanghai,31.2304,121.4737,Auto & transportation
+998,Poizon,China,CHN,Shanghai,31.2304,121.4737,Mobile & telecommunications
+1049,XForcePlus,China,CHN,Shanghai,31.2304,121.4737,Internet software & services
+1080,dMed Biopharmaceutical,China,CHN,Shanghai,31.2304,121.4737,Health
+1101,Keenon Robotics,China,CHN,Shanghai,31.2304,121.4737,"Supply chain, logistics, & delivery"
+1102,HAYDON,China,CHN,Shanghai,31.2304,121.4737,Consumer & retail
+1121,Tezign,China,CHN,Shanghai,31.2304,121.4737,Internet software & services
+1127,Gaussian Robotics,China,CHN,Shanghai,31.2304,121.4737,Hardware
+230,Abogen,China,CHN,Suzhou,31.3,120.6,Health
+1035,Yunxuetang,China,CHN,Suzhou,31.3,120.6,Edtech
+980,China Cloud,China,CHN,Wuxi,31.566667,120.3,Hardware
+101,SVOLT,China,CHN,Changzhou,31.783333,119.966667,Auto & transportation
+379,Star Charge,China,CHN,Changzhou,31.783333,119.966667,Auto & transportation
+537,Lightricks,Israel,ISR,Jerusalem,31.7890222,35.2010767,Artificial intelligence
+924,OrCam Technologies,Israel,ISR,Jerusalem,31.7890222,35.2010767,Artificial intelligence
+677,Yipin Shengxian,China,CHN,Hefei,31.866667,117.283333,E-commerce & direct-to-consumer
+1202,Vayyar,Israel,ISR,Yehud,32.028858,34.893715,Hardware
+613,Carzone,China,CHN,Nanjing,32.05,118.766667,E-commerce & direct-to-consumer
+356,BYTON,China,CHN,Nanjing,32.05,118.766667,Auto & transportation
+990,Hosjoy,China,CHN,Nanjing,32.05,118.766667,E-commerce & direct-to-consumer
+463,Earnix,Israel,ISR,Giv'atayim,32.069722,34.811667,Fintech
+1030,Aqua Security,Israel,ISR,Ramat Gan,32.0835489,34.8155009,Cybersecurity
+1157,Pentera,Israel,ISR,Petah Tikva,32.089869,34.88045,Cybersecurity
+45,Wiz,Israel,ISR,Tel Aviv,32.136871,34.796277,Cybersecurity
+143,Moon Active,Israel,ISR,Tel Aviv,32.136871,34.796277,Mobile & telecommunications
+333,Transmit Security,Israel,ISR,Tel Aviv,32.136871,34.796277,Cybersecurity
+360,Cato Networks,Israel,ISR,Tel Aviv,32.136871,34.796277,Cybersecurity
+374,Hibob,Israel,ISR,Tel Aviv,32.136871,34.796277,Internet software & services
+640,Next Silicon,Israel,ISR,Tel Aviv,32.136871,34.796277,Hardware
+700,Liquidity,Israel,ISR,Tel Aviv,32.136871,34.796277,Fintech
+701,Firebolt,Israel,ISR,Tel Aviv,32.136871,34.796277,Data management & analytics
+772,Optibus,Israel,ISR,Tel Aviv,32.136871,34.796277,"Supply chain, logistics, & delivery"
+883,Hailo,Israel,ISR,Tel Aviv,32.136871,34.796277,Artificial intelligence
+947,Perimeter 81,Israel,ISR,Tel Aviv,32.136871,34.796277,Cybersecurity
+1067,Bringg,Israel,ISR,Tel Aviv,32.136871,34.796277,"Supply chain, logistics, & delivery"
+1069,Simply,Israel,ISR,Tel Aviv,32.136871,34.796277,Edtech
+940,Vesttoo,Israel,ISR,Tel Aviv-Yafo,32.136871,34.796277,Fintech
+661,StoreDot,Israel,ISR,Herzliya,32.1648584,34.844166,Other
+373,DriveNets,Israel,ISR,Ra'anana,32.1814111,34.8726687,Internet software & services
+496,StarkWare,Israel,ISR,Netanya,32.343239,34.867146,Cybersecurity
+32,Biosplice Therapeutics,United States,USA,San Diego,32.715,-117.1625,Health
+207,ClickUp,United States,USA,San Diego,32.715,-117.1625,Internet software & services
+304,Seismic,United States,USA,San Diego,32.715,-117.1625,Internet software & services
+398,Shield AI,United States,USA,San Diego,32.715,-117.1625,Artificial intelligence
+441,Drata,United States,USA,San Diego,32.715,-117.1625,Cybersecurity
+810,Tealium,United States,USA,San Diego,32.715,-117.1625,Internet software & services
+1082,Interos,United States,USA,Arlington,32.735594,-97.10711,"Supply chain, logistics, & delivery"
+750,InSightec,Israel,ISR,Tirat Carmel,32.766667,34.966667,Health
+338,o9 Solutions,United States,USA,Dallas,32.775833,-96.796667,Artificial intelligence
+462,ISN,United States,USA,Dallas,32.775833,-96.796667,"Supply chain, logistics, & delivery"
+499,LTK,United States,USA,Dallas,32.775833,-96.796667,Internet software & services
+512,ShiftKey,United States,USA,Dallas,32.775833,-96.796667,Health
+768,Island,United States,USA,Dallas,32.775833,-96.796667,Internet software & services
+82,Caris,United States,USA,Irving,32.811667,-96.950833,Health
+757,Flock Freight,United States,USA,Encinitas,33.044444,-117.271667,"Supply chain, logistics, & delivery"
+206,Vuori,United States,USA,Carlsbad,33.121944,-117.296944,E-commerce & direct-to-consumer
+336,Nextiva,United States,USA,Scottsdale,33.5,-111.933333,Internet software & services
+659,Paradox,United States,USA,Scottsdale,33.5,-111.933333,Internet software & services
+854,SOURCE Global,United States,USA,Scottsdale,33.5,-111.933333,Other
+1135,Lessen,United States,USA,Scottsdale,33.5,-111.933333,Internet software & services
+70,Anduril,United States,USA,Irvine,33.669444,-117.823056,Artificial intelligence
+468,Kajabi,United States,USA,Irvine,33.669444,-117.823056,Internet software & services
+523,Acorns,United States,USA,Irvine,33.669444,-117.823056,Fintech
+860,Happy Money,United States,USA,Tustin,33.739722,-117.813611,Fintech
+131,OneTrust,United States,USA,Atlanta,33.748547,-84.391502,Internet software & services
+251,Flock Safety,United States,USA,Atlanta,33.748547,-84.391502,Hardware
+295,Calendly,United States,USA,Atlanta,33.748547,-84.391502,Internet software & services
+401,Greenlight,United States,USA,Atlanta,33.748547,-84.391502,Fintech
+536,FullStory,United States,USA,Atlanta,33.748547,-84.391502,Internet software & services
+771,STORD,United States,USA,Atlanta,33.748547,-84.391502,"Supply chain, logistics, & delivery"
+761,iTrustCapital,United States,USA,Long Beach,33.768333,-118.195556,Fintech
+1014,Zwift,United States,USA,Long Beach,33.768333,-118.195556,E-commerce & direct-to-consumer
+1191,Divergent 3D,United States,USA,Torrance,33.834722,-118.341389,Auto & transportation
+2,SpaceX,United States,USA,Hawthorne,33.917214,-118.348607,Other
+735,Epirus,United States,USA,Hawthorne,33.917214,-118.348607,Other
+196,Radiology Partners,United States,USA,El Segundo,33.920861,-118.415947,Health
+388,ABL Space Systems,United States,USA,El Segundo,33.920861,-118.415947,Other
+949,TechStyle Fashion Group,United States,USA,El Segundo,33.920861,-118.415947,E-commerce & direct-to-consumer
+1033,Sidecar Health,United States,USA,El Segundo,33.920861,-118.415947,Fintech
+1111,Savage X Fenty,United States,USA,El Segundo,33.920861,-118.415947,E-commerce & direct-to-consumer
+181,Relativity Space,United States,USA,Inglewood,33.961767,-118.353336,Other
+232,Whatnot,United States,USA,Marina del Rey,33.975718,-118.451184,E-commerce & direct-to-consumer
+226,GOAT,United States,USA,Culver City,34.007778,-118.400833,E-commerce & direct-to-consumer
+263,Scopely,United States,USA,Culver City,34.007778,-118.400833,Mobile & telecommunications
+1099,Assembly,United States,USA,Culver City,34.007778,-118.400833,Internet software & services
+190,Skydance Media,United States,USA,Santa Monica,34.021944,-118.481389,Other
+233,Autograph,United States,USA,Santa Monica,34.021944,-118.481389,Internet software & services
+806,Fair,United States,USA,Santa Monica,34.021944,-118.481389,Auto & transportation
+110,Black Unicorn Factory,United States,USA,Los Angeles,34.052238,-118.243344,Other
+267,BlockDaemon,United States,USA,Los Angeles,34.052238,-118.243344,Fintech
+277,Skims,United States,USA,Los Angeles,34.052238,-118.243344,E-commerce & direct-to-consumer
+429,ReCharge,United States,USA,Los Angeles,34.052238,-118.243344,Fintech
+526,thatgamecompany,United States,USA,Los Angeles,34.052238,-118.243344,Internet software & services
+569,Spotter,United States,USA,Los Angeles,34.052238,-118.243344,Fintech
+725,VideoAmp,United States,USA,Los Angeles,34.052238,-118.243344,Internet software & services
+821,FloQast,United States,USA,Los Angeles,34.052238,-118.243344,Fintech
+880,Sunbit,United States,USA,Los Angeles,34.052238,-118.243344,Fintech
+54,ServiceTitan,United States,USA,Glendale,34.148138,-118.246437,Internet software & services
+300,Age of Learning,United States,USA,Glendale,34.148138,-118.246437,Edtech
+785,Mythical Games,United States,USA,Sherman Oaks,34.151111,-118.448333,Internet software & services
+642,impact.com,United States,USA,Santa Barbara,34.420867,-119.698342,Internet software & services
+865,Invoca,United States,USA,Santa Barbara,34.420867,-119.698342,Artificial intelligence
+481,Apeel Sciences,United States,USA,Goleta,34.440556,-119.813611,Other
+953,Red Ventures,United States,USA,Fort Mill,35.007597,-80.944324,Other
+988,Tresata,United States,USA,Charlotte,35.2237867,-80.8411413,Fintech
+1058,Printful,United States,USA,Charlotte,35.2237867,-80.8411413,Other
+448,Preferred Networks,Japan,JPN,Tokyo,35.652832,139.839478,Artificial intelligence
+484,SmartNews,Japan,JPN,Tokyo,35.652832,139.839478,Mobile & telecommunications
+591,SmartHR,Japan,JPN,Tokyo,35.652832,139.839478,Fintech
+1015,Playco,Japan,JPN,Tokyo,35.652832,139.839478,Other
+1195,Opn,Japan,JPN,Tokyo,35.652832,139.839478,Fintech
+8,Epic Games,United States,USA,Cary,35.778889,-78.800278,Other
+344,Pendo,United States,USA,Raleigh,35.780556,-78.638889,Internet software & services
+861,TELD,China,CHN,Qingdao,36.066667,120.383333,Fintech
+653,Built,United States,USA,Nashville,36.166667,-86.783333,Internet software & services
+1199,CareBridge,United States,USA,Nashville,36.166667,-86.783333,Health
+1207,Unstoppable Domains,United States,USA,Las Vegas,36.1690921,-115.1405767,Internet software & services
+675,Prometheus,United States,USA,Santa Cruz,36.97205,-122.026252,Other
+942,Paystand,United States,USA,Scotts Valley,37.051389,-122.013333,Fintech
+162,SonarSource,Switzerland,CHE,Geneva,37.283333,-120.316667,Internet software & services
+73,Lacework,United States,USA,San Jose,37.333333,-121.9,Cybersecurity
+97,Automation Anywhere,United States,USA,San Jose,37.333333,-121.9,Artificial intelligence
+223,Cohesity,United States,USA,San Jose,37.333333,-121.9,Data management & analytics
+736,Signifyd,United States,USA,San Jose,37.333333,-121.9,Fintech
+817,Vectra Networks,United States,USA,San Jose,37.333333,-121.9,Artificial intelligence
+844,CloudBees,United States,USA,San Jose,37.333333,-121.9,Data management & analytics
+864,Visby Medical,United States,USA,San Jose,37.333333,-121.9,Health
+1023,Splashtop,United States,USA,San Jose,37.333333,-121.9,Internet software & services
+85,Netskope,United States,USA,Santa Clara,37.354107,-121.955238,Cybersecurity
+270,Astera Labs,United States,USA,Santa Clara,37.354107,-121.955238,Hardware
+427,Eightfold.ai,United States,USA,Santa Clara,37.354107,-121.955238,Internet software & services
+483,Aviatrix,United States,USA,Santa Clara,37.354107,-121.955238,Internet software & services
+502,Dremio,United States,USA,Santa Clara,37.354107,-121.955238,Data management & analytics
+504,Cloudinary,United States,USA,Santa Clara,37.354107,-121.955238,Internet software & services
+577,DataStax,United States,USA,Santa Clara,37.354107,-121.955238,Data management & analytics
+208,Cerebras Systems,United States,USA,Los Altos,37.368056,-122.0975,Hardware
+1125,Contrast Security,United States,USA,Los Altos,37.368056,-122.0975,Cybersecurity
+1156,Placer.ai,United States,USA,Los Altos,37.368056,-122.0975,Artificial intelligence
+183,ThoughtSpot,United States,USA,Sunnyvale,37.371111,-122.0375,Internet software & services
+200,Zapier,United States,USA,Sunnyvale,37.371111,-122.0375,Internet software & services
+236,Applied Intuition,United States,USA,Sunnyvale,37.371111,-122.0375,Auto & transportation
+330,Illumio,United States,USA,Sunnyvale,37.371111,-122.0375,Cybersecurity
+454,Druva,United States,USA,Sunnyvale,37.371111,-122.0375,Data management & analytics
+581,Clari,United States,USA,Sunnyvale,37.371111,-122.0375,Internet software & services
+758,YugaByte,United States,USA,Sunnyvale,37.371111,-122.0375,Data management & analytics
+943,Turntide Technologies,United States,USA,Sunnyvale,37.371111,-122.0375,Auto & transportation
+492,ClickHouse,United States,USA,Portola Valley,37.375,-122.218611,Data management & analytics
+66,Nuro,United States,USA,Mountain View,37.39008,-122.0813919,Auto & transportation
+121,Workato,United States,USA,Mountain View,37.39008,-122.0813919,Internet software & services
+404,Zume,United States,USA,Mountain View,37.39008,-122.0813919,Consumer & retail
+416,BloomReach,United States,USA,Mountain View,37.39008,-122.0813919,Artificial intelligence
+421,Addepar,United States,USA,Mountain View,37.39008,-122.0813919,Fintech
+430,Moveworks,United States,USA,Mountain View,37.39008,-122.0813919,Artificial intelligence
+447,Quora,United States,USA,Mountain View,37.39008,-122.0813919,Internet software & services
+458,Redis Labs,United States,USA,Mountain View,37.39008,-122.0813919,Data management & analytics
+565,H2O.ai,United States,USA,Mountain View,37.39008,-122.0813919,Artificial intelligence
+665,Athelas,United States,USA,Mountain View,37.39008,-122.0813919,Health
+712,Coda,United States,USA,Mountain View,37.39008,-122.0813919,Internet software & services
+799,inDriver,United States,USA,Mountain View,37.39008,-122.0813919,Auto & transportation
+833,BigPanda,United States,USA,Mountain View,37.39008,-122.0813919,Artificial intelligence
+863,At-Bay,United States,USA,Mountain View,37.39008,-122.0813919,Fintech
+868,TangoMe,United States,USA,Mountain View,37.39008,-122.0813919,Mobile & telecommunications
+1020,News Break,United States,USA,Mountain View,37.39008,-122.0813919,Internet software & services
+1040,Groq,United States,USA,Mountain View,37.39008,-122.0813919,Artificial intelligence
+58,Navan,United States,USA,Palo Alto,37.429167,-122.138056,Travel
+91,Gong,United States,USA,Palo Alto,37.429167,-122.138056,Artificial intelligence
+140,SambaNova Systems,United States,USA,Palo Alto,37.429167,-122.138056,Data management & analytics
+191,Houzz,United States,USA,Palo Alto,37.429167,-122.138056,E-commerce & direct-to-consumer
+197,Next Insurance,United States,USA,Palo Alto,37.429167,-122.138056,Fintech
+204,Rubrik,United States,USA,Palo Alto,37.429167,-122.138056,Data management & analytics
+281,PsiQuantum,United States,USA,Palo Alto,37.429167,-122.138056,Hardware
+345,Plume,United States,USA,Palo Alto,37.429167,-122.138056,Internet software & services
+365,Uniphore,United States,USA,Palo Alto,37.429167,-122.138056,Artificial Intelligence
+431,Medable,United States,USA,Palo Alto,37.429167,-122.138056,Health
+673,Mashgin,United States,USA,Palo Alto,37.429167,-122.138056,Artificial intelligence
+727,Salt Security,United States,USA,Palo Alto,37.429167,-122.138056,Cybersecurity
+740,Flipboard,United States,USA,Palo Alto,37.429167,-122.138056,Internet software & services
+895,Turing,United States,USA,Palo Alto,37.429167,-122.138056,Internet software & services
+1087,Snorkel AI,United States,USA,Palo Alto,37.429167,-122.138056,Artificial intelligence
+1147,Noname Security,United States,USA,Palo Alto,37.429167,-122.138056,Cybersecurity
+1159,Minio,United States,USA,Palo Alto,37.429167,-122.138056,Data management & analytics
+1176,Aptos,United States,USA,Palo Alto,37.429167,-122.138056,Internet software & services
+1178,CommerceIQ,United States,USA,Palo Alto,37.429167,-122.138056,Artificial Intelligence
+1198,Glean,United States,USA,Palo Alto,37.429167,-122.138056,Internet software & services
+1180,Tarana Wireless,United States,USA,Milpitas,37.4307627,-121.8975112,Mobile & telecommunications
+931,Character.AI,United States,USA,Menlo Park,37.452778,-122.183333,Artificial intelligence
+995,Globality,United States,USA,Menlo Park,37.452778,-122.183333,Artificial intelligence
+1012,Orca Bio,United States,USA,Menlo Park,37.452778,-122.183333,Health
+195,Impossible Foods,United States,USA,Redwood City,37.482778,-122.236111,Consumer & retail
+210,Branch,United States,USA,Redwood City,37.482778,-122.236111,Mobile & telecommunications
+237,Course Hero,United States,USA,Redwood City,37.482778,-122.236111,Edtech
+381,Carbon,United States,USA,Redwood City,37.482778,-122.236111,Hardware
+409,Skydio,United States,USA,Redwood City,37.482778,-122.236111,"Supply chain, logistics, & delivery"
+564,Reltio,United States,USA,Redwood City,37.482778,-122.236111,Data management & analytics
+729,Nimble Rx,United States,USA,Redwood City,37.482778,-122.236111,Health
+747,HeartFlow,United States,USA,Redwood City,37.482778,-122.236111,Health
+873,Ivalua,United States,USA,Redwood City,37.482778,-122.236111,Fintech
+905,Material Security,United States,USA,Redwood City,37.482778,-122.236111,Cybersecurity
+1017,Alation,United States,USA,Redwood City,37.482778,-122.236111,Internet software & services
+1046,MOLOCO,United States,USA,Redwood City,37.482778,-122.236111,Artificial intelligence
+209,Farmers Business Network,United States,USA,San Carlos,37.503733,-122.264927,Other
+93,Toss,"Korea, South",KOR,Seoul,37.5326,127.024612,Fintech
+192,Yello Mobile,"Korea, South",KOR,Seoul,37.5326,127.024612,Mobile & telecommunications
+265,Kurly,"Korea, South",KOR,Seoul,37.5326,127.024612,"Supply chain, logistics, & delivery"
+337,Tridge,"Korea, South",KOR,Seoul,37.5326,127.024612,Internet software & services
+395,WEMAKEPRICE,"Korea, South",KOR,Seoul,37.5326,127.024612,E-commerce & direct-to-consumer
+410,MUSINSA,"Korea, South",KOR,Seoul,37.5326,127.024612,E-commerce & direct-to-consumer
+517,ZigBang,"Korea, South",KOR,Seoul,37.5326,127.024612,Mobile & telecommunications
+531,MEGAZONE,"Korea, South",KOR,Seoul,37.5326,127.024612,Internet software & services
+716,Bucketplace,"Korea, South",KOR,Seoul,37.5326,127.024612,E-commerce & direct-to-consumer
+739,RIDI,"Korea, South",KOR,Seoul,37.5326,127.024612,E-commerce & direct-to-consumer
+741,GPclub,"Korea, South",KOR,Seoul,37.5326,127.024612,Other
+846,L&P Cosmetic,"Korea, South",KOR,Seoul,37.5326,127.024612,Consumer & retail
+1001,Yanolja,"Korea, South",KOR,Seoul,37.5326,127.024612,Travel
+1124,IGAWorks,"Korea, South",KOR,Seoul,37.5326,127.024612,Internet software & services
+68,Pony.ai,United States,USA,Fremont,37.548333,-121.988611,Artificial intelligence
+189,Weee!,United States,USA,Fremont,37.548333,-121.988611,"Supply chain, logistics, & delivery"
+74,Tipalti,United States,USA,San Mateo,37.554169,-122.313057,Fintech
+81,FalconX,United States,USA,San Mateo,37.554169,-122.313057,Fintech
+280,Verkada,United States,USA,San Mateo,37.554169,-122.313057,Cybersecurity
+369,SiFive,United States,USA,San Mateo,37.554169,-122.313057,Hardware
+423,Neo4j,United States,USA,San Mateo,37.554169,-122.313057,Data management & analytics
+857,Guideline,United States,USA,San Mateo,37.554169,-122.313057,Fintech
+920,Sendbird,United States,USA,San Mateo,37.554169,-122.313057,Mobile & telecommunications
+1032,Evidation,United States,USA,San Mateo,37.554169,-122.313057,Health
+1034,Feedzai,United States,USA,San Mateo,37.554169,-122.313057,Artificial intelligence
+1145,SnapLogic,United States,USA,San Mateo,37.554169,-122.313057,Internet software & services
+1173,Veev,United States,USA,San Mateo,37.554169,-122.313057,Internet software & services
+385,Exabeam,United States,USA,Foster City,37.5618811,-122.266445,Cybersecurity
+163,Lyra Health,United States,USA,Burlingame,37.5841952,-122.3662652,Health
+165,Color,United States,USA,Burlingame,37.5841952,-122.3662652,Health
+904,Imply Data,United States,USA,Burlingame,37.5841952,-122.3662652,Data management & analytics
+327,Zipline,United States,USA,South San Francisco,37.656111,-122.425556,"Supply chain, logistics, & delivery"
+392,Freenome,United States,USA,South San Francisco,37.656111,-122.425556,Health
+722,Degreed,United States,USA,Pleasanton,37.6625,-121.874722,Edtech
+278,Eikon Therapeutics,United States,USA,Hayward,37.672111,-122.083963,Health
+594,Truepill,United States,USA,Hayward,37.672111,-122.083963,Health
+262,Sila Nanotechnologies,United States,USA,Alameda,37.756111,-122.274444,Other
+4,Stripe,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+9,Databricks,United States,USA,San Francisco,37.773972,-122.431297,Data management & analytics
+11,Chime,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+12,OpenAI,United States,USA,San Francisco,37.773972,-122.431297,Artificial intelligence
+15,Miro,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+18,Discord,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+21,Ripple,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+23,Plaid,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+26,Grammarly,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+28,Faire,United States,USA,San Francisco,37.773972,-122.431297,Artificial intelligence
+29,Brex,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+30,JUUL Labs,United States,USA,San Francisco,37.773972,-122.431297,Consumer & retail
+35,Deel,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+36,Airtable,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+39,Rippling,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+41,Bolt,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+42,Alchemy,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+43,Instacart,United States,USA,San Francisco,37.773972,-122.431297,"Supply chain, logistics, & delivery"
+46,Gusto,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+48,reddit,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+49,Talkdesk,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+50,Notion Labs,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+61,Niantic,United States,USA,San Francisco,37.773972,-122.431297,Mobile & telecommunications
+80,Flexport,United States,USA,San Francisco,37.773972,-122.431297,"Supply chain, logistics, & delivery"
+87,Automattic,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+88,Carta,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+90,Scale AI,United States,USA,San Francisco,37.773972,-122.431297,Artificial intelligence
+108,Upgrade,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+109,Hinge Health,United States,USA,San Francisco,37.773972,-122.431297,Health
+111,Benchling,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+115,6Sense,United States,USA,San Francisco,37.773972,-122.431297,Artificial intelligence
+125,Postman,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+153,Coalition,United States,USA,San Francisco,37.773972,-122.431297,Cybersecurity
+156,Cerebral,United States,USA,San Francisco,37.773972,-122.431297,Health
+160,BetterUp,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+164,Checkr,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+174,Anthropic,United States,USA,San Francisco,37.773972,-122.431297,Artificial intelligence
+198,Patreon,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+201,Clubhouse,United States,USA,San Francisco,37.773972,-122.431297,Mobile & telecommunications
+211,Aurora Solar,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+212,Webflow,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+215,Abnormal Security,United States,USA,San Francisco,37.773972,-122.431297,Cybersecurity
+231,Harness,United States,USA,San Francisco,37.773972,-122.431297,Artificial intelligence
+238,SpotOn,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+243,Commure,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+249,Handshake,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+250,ChargeBee Technologies,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+264,Komodo Health,United States,USA,San Francisco,37.773972,-122.431297,Health
+271,Thumbtack,United States,USA,San Francisco,37.773972,-122.431297,E-commerce & direct-to-consumer
+275,Innovaccer,United States,USA,San Francisco,37.773972,-122.431297,Health
+279,Retool,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+301,Carbon Health,United States,USA,San Francisco,37.773972,-122.431297,Health
+306,Outschool,United States,USA,San Francisco,37.773972,-122.431297,Edtech
+311,Anchorage Digital,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+312,Inxeption,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+313,Lattice,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+314,Flutterwave,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+317,Remote,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+318,Sentry,United States,USA,San Francisco,37.773972,-122.431297,Other
+319,Kraken,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+331,MasterClass,United States,USA,San Francisco,37.773972,-122.431297,Edtech
+335,Tradeshift,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+343,Sourcegraph,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+352,Eat Just,United States,USA,San Francisco,37.773972,-122.431297,Consumer & retail
+353,Cribl,United States,USA,San Francisco,37.773972,-122.431297,Data management & analytics
+357,Side,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+359,Varo Bank,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+362,Vercel,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+363,Sysdig,United States,USA,San Francisco,37.773972,-122.431297,Cybersecurity
+389,HoneyBook,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+400,Motive,United States,USA,San Francisco,37.773972,-122.431297,"Supply chain, logistics, & delivery"
+405,Algolia,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+407,Newfront Insurance,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+414,Dialpad,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+422,Qualia,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+439,GrubMarket,United States,USA,San Francisco,37.773972,-122.431297,E-commerce & direct-to-consumer
+442,Mysten Labs,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+451,Calm,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+456,AppsFlyer,United States,USA,San Francisco,37.773972,-122.431297,Mobile & telecommunications
+461,Virta Health,United States,USA,San Francisco,37.773972,-122.431297,Health
+466,Hive,United States,USA,San Francisco,37.773972,-122.431297,Artificial intelligence
+469,Ethos,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+473,Iterable,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+477,MURAL,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+480,Divvy Homes,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+489,Modern Treasury,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+497,Netlify,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+535,Diamond Foundry,United States,USA,San Francisco,37.773972,-122.431297,Other
+550,PAX,United States,USA,San Francisco,37.773972,-122.431297,Consumer & retail
+554,Front,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+560,CircleCI,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+568,Productboard,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+570,Optimism,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+571,Incredible Health,United States,USA,San Francisco,37.773972,-122.431297,Health
+573,Transcarent,United States,USA,San Francisco,37.773972,-122.431297,Health
+582,Tonal,United States,USA,San Francisco,37.773972,-122.431297,E-commerce & direct-to-consumer
+585,Monte Carlo,United States,USA,San Francisco,37.773972,-122.431297,Artificial intelligence
+586,Cresta,United States,USA,San Francisco,37.773972,-122.431297,Artificial Intelligence
+587,Extend,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+592,Mercury,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+593,HomeLight,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+599,Vanta,United States,USA,San Francisco,37.773972,-122.431297,Cybersecurity
+600,Magic Eden,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+601,Pave,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+611,Loom,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+631,Collective Health,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+632,Strava,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+637,Snapdocs,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+638,Chipper Cash,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+643,SmartRecruiters,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+650,Persona,United States,USA,San Francisco,37.773972,-122.431297,Cybersecurity
+655,CoinList,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+660,Airbyte,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+670,Zeta,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+671,Boba,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+688,Aleo,United States,USA,San Francisco,37.773972,-122.431297,Cybersecurity
+697,Envoy,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+708,Kong,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+715,Clarify Health,United States,USA,San Francisco,37.773972,-122.431297,Health
+721,GupShup,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+723,Astranis Space Technologies,United States,USA,San Francisco,37.773972,-122.431297,Mobile & telecommunications
+726,Panther Labs,United States,USA,San Francisco,37.773972,-122.431297,Cybersecurity
+763,CoinTracker,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+769,Clipboard Health,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+774,Intercom,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+784,Honor Technology,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+786,Incode Technologies,United States,USA,San Francisco,37.773972,-122.431297,Cybersecurity
+790,CaptivateIQ,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+792,ClassDojo,United States,USA,San Francisco,37.773972,-122.431297,Edtech
+803,Zip,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+813,Pilot.com,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+822,MindTickle,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+826,Gem,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+834,Phantom,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+837,Nova Labs,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+839,Viz.ai,United States,USA,San Francisco,37.773972,-122.431297,Artificial Intelligence
+850,Modern Health,United States,USA,San Francisco,37.773972,-122.431297,Health
+851,IRL,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+859,Elemy,United States,USA,San Francisco,37.773972,-122.431297,Health
+869,AppDirect,United States,USA,San Francisco,37.773972,-122.431297,E-commerce & direct-to-consumer
+886,People.ai,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+894,Fundbox,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+917,0x,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+919,Instabase,United States,USA,San Francisco,37.773972,-122.431297,Data management & analytics
+921,Density,United States,USA,San Francisco,37.773972,-122.431297,Hardware
+922,Mixpanel,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+925,Ample,United States,USA,San Francisco,37.773972,-122.431297,Hardware
+933,Adept,United States,USA,San Francisco,37.773972,-122.431297,Artificial intelligence
+946,Lookout,United States,USA,San Francisco,37.773972,-122.431297,Cybersecurity
+950,Zebec,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+1008,Alto Pharmacy,United States,USA,San Francisco,37.773972,-122.431297,Health
+1011,Quizlet,United States,USA,San Francisco,37.773972,-122.431297,Edtech
+1027,Standard AI,United States,USA,San Francisco,37.773972,-122.431297,Artificial intelligence
+1043,Sift,United States,USA,San Francisco,37.773972,-122.431297,Artificial intelligence
+1048,Mux,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+1054,Forte Labs,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+1060,Shippo,United States,USA,San Francisco,37.773972,-122.431297,"Supply chain, logistics, & delivery"
+1071,Worldcoin,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+1076,MobileCoin,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+1078,Pantheon Systems,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+1084,Human Interest,United States,USA,San Francisco,37.773972,-122.431297,Fintech
+1090,PicsArt,United States,USA,San Francisco,37.773972,-122.431297,Mobile & telecommunications
+1100,PandaDoc,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+1114,Weights & Biases,United States,USA,San Francisco,37.773972,-122.431297,Artificial intelligence
+1131,Stytch,United States,USA,San Francisco,37.773972,-122.431297,Cybersecurity
+1148,Rothy's,United States,USA,San Francisco,37.773972,-122.431297,Consumer & retail
+1165,Watershed,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+1171,Omada Health,United States,USA,San Francisco,37.773972,-122.431297,Health
+1179,RapidAPI,United States,USA,San Francisco,37.773972,-122.431297,Internet software & services
+1188,NexHealth,United States,USA,San Francisco,37.773972,-122.431297,Health
+1206,SingleStore,United States,USA,San Francisco,37.773972,-122.431297,Data management & analytics
+245,Tekion,United States,USA,San Ramon,37.78,-121.978056,Internet software & services
+126,FiveTran,United States,USA,Oakland,37.804828,-122.27248,Data management & analytics
+303,LaunchDarkly,United States,USA,Oakland,37.804828,-122.27248,Internet software & services
+493,Everlaw,United States,USA,Oakland,37.804828,-122.27248,Internet software & services
+525,Roofstock,United States,USA,Oakland,37.804828,-122.27248,Fintech
+903,Teleport,United States,USA,Oakland,37.804828,-122.27248,Cybersecurity
+762,Domestika,United States,USA,Berkeley,37.8690573,-122.2704634,Internet software & services
+1138,Anyscale,United States,USA,Berkeley,37.8690573,-122.2704634,Artificial Intelligence
+1189,UPSIDE Foods,United States,USA,Berkeley,37.8690573,-122.2704634,Other
+645,Culture Amp,Australia,AUS,Richmond,37.937865,-122.343146,Internet software & services
+436,Viva Wallet,Greece,GRC,Athens,37.9753357,23.7361497,Fintech
+778,PeopleCert,Greece,GRC,Athens,37.9753357,23.7361497,Internet software & services
+349,JumpCloud,United States,USA,Louisville,38.25,-85.766667,Data management & analytics
+276,Ironclad,United States,USA,Sacramento,38.555556,-121.468889,Internet software & services
+907,Recover,Spain,ESP,Banyeres de Mariola,38.715833,-0.657222,Other
+800,Spiber,Japan,JPN,Tsuruoka,38.7285428,139.8291321,Other
+33,GoodLeap,United States,USA,Roseville,38.7525,-121.289444,Internet software & services
+1019,Quantum Metric,United States,USA,Colorado Springs,38.835224,-104.819798,Data management & analytics
+672,Upside,United States,USA,Washington DC,38.889805,-77.009056,Mobile & telecommunications
+679,Arcadia,United States,USA,Washington DC,38.889805,-77.009056,Other
+816,Cava Group,United States,USA,Washington,38.889805,-77.009056,Other
+858,Rebellion Defense,United States,USA,Washington DC,38.889805,-77.009056,Artificial intelligence
+1073,Morning Consult,United States,USA,Washington DC,38.889805,-77.009056,Internet software & services
+1004,C2FO,United States,USA,Leawood,38.91238,-94.626692,Fintech
+366,Somatus,United States,USA,McLean,38.928333,-77.175278,Health
+636,ID.me,United States,USA,McLean,38.928333,-77.175278,Cybersecurity
+1133,Expel,United States,USA,Herndon,38.969732,-77.383871,Cybersecurity
+433,Aledade,United States,USA,Bethesda,38.984722,-77.113056,Health
+648,1047 Games,United States,USA,Zephyr Cove,38.9972383,-119.9534195,Internet software & services
+647,Pacaso,United States,USA,Cincinnati,39.1036974,-84.5136131,Fintech
+228,Redwood Materials,United States,USA,Carson City,39.160833,-119.753889,Other
+380,EquipmentShare,United States,USA,Columbia,39.203712,-76.861046,Fintech
+552,Pax8,United States,USA,Greenwood Village,39.616885,-104.950507,Internet software & services
+177,Guild Education,United States,USA,Denver,39.742043,-104.991531,Internet software & services
+545,Crusoe,United States,USA,Denver,39.742043,-104.991531,Internet software & services
+551,DispatchHealth,United States,USA,Denver,39.742043,-104.991531,Health
+692,SonderMind,United States,USA,Denver,39.742043,-104.991531,Health
+829,AgentSync,United States,USA,Denver,39.742043,-104.991531,Fintech
+884,Caribou,United States,USA,Denver,39.742043,-104.991531,Fintech
+1003,Ibotta,United States,USA,Denver,39.742043,-104.991531,Fintech
+1026,Locus Robotics,United States,USA,Wilmington,39.745833,-75.546667,Hardware
+1187,Oyster,United States,USA,Wilmington,39.745833,-75.546667,Fintech
+1,ByteDance,China,CHN,Beijing,39.916668,116.383331,Artificial intelligence
+16,Yuanfudao,China,CHN,Beijing,39.916668,116.383331,Edtech
+20,Yuanqi Senlin,China,CHN,Beijing,39.916668,116.383331,Consumer & retail
+31,Bitmain Technologies,China,CHN,Beijing,39.916668,116.383331,Hardware
+47,Chehaoduo,China,CHN,Beijing,39.916668,116.383331,E-commerce & direct-to-consumer
+100,Ziroom,China,CHN,Beijing,39.916668,116.383331,E-commerce & direct-to-consumer
+117,Easyhome,China,CHN,Beijing,39.916668,116.383331,Consumer & retail
+118,Lianjia,China,CHN,Beijing,39.916668,116.383331,E-commerce & direct-to-consumer
+138,Horizon Robotics,China,CHN,Beijing,39.916668,116.383331,Artificial intelligence
+159,Chipone,China,CHN,Beijing,39.916668,116.383331,Hardware
+168,VIPKid,China,CHN,Beijing,39.916668,116.383331,Edtech
+182,Miaoshou Doctor,China,CHN,Beijing,39.916668,116.383331,E-commerce & direct-to-consumer
+193,MEGVII,China,CHN,Beijing,39.916668,116.383331,Artificial intelligence
+285,Yixia,China,CHN,Beijing,39.916668,116.383331,Mobile & telecommunications
+290,Zuoyebang,China,CHN,Beijing,39.916668,116.383331,Edtech
+326,Meicai,China,CHN,Beijing,39.916668,116.383331,Mobile & telecommunications
+415,G7 Networks,China,CHN,Beijing,39.916668,116.383331,"Supply chain, logistics, & delivery"
+446,HuiMin,China,CHN,Beijing,39.916668,116.383331,E-commerce & direct-to-consumer
+450,4Paradigm,China,CHN,Beijing,39.916668,116.383331,Artificial intelligence
+453,Mafengwo,China,CHN,Beijing,39.916668,116.383331,Travel
+457,Keep,China,CHN,Beijing,39.916668,116.383331,Internet software & services
+471,Beisen,China,CHN,Beijing,39.916668,116.383331,Internet software & services
+514,Geek+,China,CHN,Beijing,39.916668,116.383331,Hardware
+547,Apus Group,China,CHN,Beijing,39.916668,116.383331,Mobile & telecommunications
+572,Jusfoun Big Data,China,CHN,Beijing,39.916668,116.383331,Data management & analytics
+603,GalaxySpace,China,CHN,Beijing,39.916668,116.383331,Mobile & telecommunications
+607,Baiwang,China,CHN,Beijing,39.916668,116.383331,Fintech
+622,TuJia,China,CHN,Beijing,39.916668,116.383331,Travel
+627,XiaoZhu,China,CHN,Beijing,39.916668,116.383331,Travel
+629,Yijiupi,China,CHN,Beijing,39.916668,116.383331,Consumer & retail
+681,Shukun Technology,China,CHN,Beijing,39.916668,116.383331,Artificial Intelligence
+702,Koudai,China,CHN,Beijing,39.916668,116.383331,E-commerce & direct-to-consumer
+704,Yidian Zixun,China,CHN,Beijing,39.916668,116.383331,Mobile & telecommunications
+744,Unisound,China,CHN,Beijing,39.916668,116.383331,Artificial intelligence
+753,TalkingData,China,CHN,Beijing,39.916668,116.383331,Mobile & telecommunications
+776,Huisuanzhang,China,CHN,Beijing,39.916668,116.383331,Fintech
+782,Kuaikan Manhua,China,CHN,Beijing,39.916668,116.383331,Internet software & services
+812,Pipa Coding,China,CHN,Beijing,39.916668,116.383331,Edtech
+814,Aibee,China,CHN,Beijing,39.916668,116.383331,Artificial intelligence
+847,Mininglamp Technology,China,CHN,Beijing,39.916668,116.383331,Artificial intelligence
+848,Luoji Siwei,China,CHN,Beijing,39.916668,116.383331,Edtech
+910,Nxin,China,CHN,Beijing,39.916668,116.383331,Internet software & services
+911,UISEE Technology,China,CHN,Beijing,39.916668,116.383331,"Supply chain, logistics, & delivery"
+918,Jiuxian,China,CHN,Beijing,39.916668,116.383331,E-commerce & direct-to-consumer
+956,JimuBox,China,CHN,Beijing,39.916668,116.383331,Fintech
+957,FXiaoKe,China,CHN,Beijing,39.916668,116.383331,Mobile & telecommunications
+958,Mia.com,China,CHN,Beijing,39.916668,116.383331,E-commerce & direct-to-consumer
+959,58 Daojia,China,CHN,Beijing,39.916668,116.383331,Internet software & services
+960,Womai,China,CHN,Beijing,39.916668,116.383331,E-commerce & direct-to-consumer
+967,Mobvoi,China,CHN,Beijing,39.916668,116.383331,Consumer & retail
+968,Zhuan Zhuan,China,CHN,Beijing,39.916668,116.383331,E-commerce & direct-to-consumer
+976,Maimai,China,CHN,Beijing,39.916668,116.383331,Mobile & telecommunications
+979,Huike Group,China,CHN,Beijing,39.916668,116.383331,Edtech
+981,LinkDoc Technology,China,CHN,Beijing,39.916668,116.383331,Health
+986,FlashEx,China,CHN,Beijing,39.916668,116.383331,"Supply chain, logistics, & delivery"
+989,Momenta,China,CHN,Beijing,39.916668,116.383331,Artificial intelligence
+992,TERMINUS Technology,China,CHN,Beijing,39.916668,116.383331,Hardware
+1000,KnowBox,China,CHN,Beijing,39.916668,116.383331,Edtech
+1079,Xiaoice,China,CHN,Beijing,39.916668,116.383331,E-commerce & direct-to-consumer
+1120,Moka,China,CHN,Beijing,39.916668,116.383331,Internet software & services
+1150,Haomao.AI,China,CHN,Beijing,39.916668,116.383331,Artificial Intelligence
+19,goPuff,United States,USA,Philadelphia,39.95,-75.166667,"Supply chain, logistics, & delivery"
+185,dbt Labs,United States,USA,Philadelphia,39.95,-75.166667,Data management & analytics
+485,Misfits Market,United States,USA,Pennsauken,39.968392,-75.057942,"Supply chain, logistics, & delivery"
+203,Olive,United States,USA,Columbus,39.983333,-82.983333,Health
+923,Branch,United States,USA,Columbus,39.983333,-82.983333,Fintech
+354,Jetti Resources,United States,USA,Boulder,40.017624,-105.27966,Other
+635,Uplight,United States,USA,Boulder,40.017624,-105.27966,Other
+667,Veho,United States,USA,Boulder,40.017624,-105.27966,"Supply chain, logistics, & delivery"
+307,TradingView,United States,USA,Westerville,40.123611,-82.921389,Fintech
+720,Phenom People,United States,USA,Ambler,40.155,-75.220278,Internet software & services
+1201,JupiterOne,United States,USA,Morrisville,40.2075,-74.78,Cybersecurity
+824,Offchain Labs,United States,USA,Princeton,40.3519802,-74.6607443,Internet software & services
+309,Podium,United States,USA,Lehi,40.387876,-111.849167,Internet software & services
+406,Pattern,United States,USA,Lehi,40.387876,-111.849167,Internet software & services
+521,MX,United States,USA,Lehi,40.387876,-111.849167,Fintech
+789,Route,United States,USA,Lehi,40.387876,-111.849167,"Supply chain, logistics, & delivery"
+394,Jobandtalent,Spain,ESP,Madrid,40.4166909,-3.7003454,Internet software & services
+705,Cabify,Spain,ESP,Madrid,40.4166909,-3.7003454,Auto & transportation
+646,TaxBit,United States,USA,Draper,40.5250497,-111.8642028,Fintech
+299,Lucid Software,United States,USA,South Jordan,40.561667,-111.960833,Internet software & services
+1055,Axtria,United States,USA,Berkeley Heights,40.676393,-74.425027,Data management & analytics
+119,Vice Media,United States,USA,Brooklyn,40.692529,-73.990996,Internet software & services
+120,Cityblock Health,United States,USA,Brooklyn,40.692529,-73.990996,Health
+541,Cambrian BioPharma,United States,USA,Brooklyn,40.692529,-73.990996,Health
+539,Kindbody,United States,USA,New York,40.7130466,-74.0072301,Health
+24,OpenSea,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+52,Digital Currency Group,United States,USA,New York,40.7130466,-74.0072301,Fintech
+67,Chainalysis,United States,USA,New York,40.7130466,-74.0072301,Fintech
+76,Ramp,United States,USA,New York,40.7130466,-74.0072301,Fintech
+79,Fireblocks,United States,USA,New York,40.7130466,-74.0072301,Fintech
+92,Gemini,United States,USA,New York,40.7130466,-74.0072301,Fintech
+95,Ro,United States,USA,New York,40.7130466,-74.0072301,Health
+96,ConsenSys,United States,USA,New York,40.7130466,-74.0072301,Fintech
+113,Better.com,United States,USA,New York,40.7130466,-74.0072301,Fintech
+114,iCapital Network,United States,USA,New York,40.7130466,-74.0072301,Fintech
+145,Cockroach Labs,United States,USA,New York,40.7130466,-74.0072301,Data management & analytics
+154,Grafana Labs,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+169,Socure,United States,USA,New York,40.7130466,-74.0072301,Cybersecurity
+187,Dataminr,United States,USA,New York,40.7130466,-74.0072301,Artificial intelligence
+205,Melio,United States,USA,New York,40.7130466,-74.0072301,Fintech
+221,Articulate,United States,USA,New York,40.7130466,-74.0072301,Edtech
+224,Dataiku,United States,USA,New York,40.7130466,-74.0072301,Artificial intelligence
+225,VAST Data,United States,USA,New York,40.7130466,-74.0072301,Data management & analytics
+227,Noom,United States,USA,New York,40.7130466,-74.0072301,Health
+229,Papaya Global,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+272,Cedar,United States,USA,New York,40.7130466,-74.0072301,Fintech
+294,Forter,United States,USA,New York,40.7130466,-74.0072301,Cybersecurity
+310,Via,United States,USA,New York,40.7130466,-74.0072301,Auto & transportation
+347,Axonius,United States,USA,New York,40.7130466,-74.0072301,Cybersecurity
+368,A24 Films,United States,USA,New York,40.7130466,-74.0072301,Other
+382,Rokt,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+384,Paxos,United States,USA,New York,40.7130466,-74.0072301,Fintech
+387,Trumid,United States,USA,New York,40.7130466,-74.0072301,Fintech
+402,Bowery Farming,United States,USA,New York,40.7130466,-74.0072301,Other
+411,Current,United States,USA,New York,40.7130466,-74.0072301,Fintech
+413,Gympass,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+460,Unqork,United States,USA,New York,40.7130466,-74.0072301,Fintech
+486,Spring Health,United States,USA,New York,40.7130466,-74.0072301,Health
+495,VerbIT,United States,USA,New York,40.7130466,-74.0072301,Artificial intelligence
+498,SWORD Health,United States,USA,New York,40.7130466,-74.0072301,Health
+508,CertiK,United States,USA,New York,40.7130466,-74.0072301,Cybersecurity
+510,Hugging Face,United States,USA,New York,40.7130466,-74.0072301,Artificial intelligence
+515,21.co,United States,USA,New York,40.7130466,-74.0072301,Fintech
+519,InVision,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+524,Fever Labs,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+533,ZocDoc,United States,USA,New York,40.7130466,-74.0072301,Health
+538,Opentrons,United States,USA,New York,40.7130466,-74.0072301,Hardware
+548,AlphaSense,United States,USA,New York,40.7130466,-74.0072301,Artificial intelligence
+549,Harry's,United States,USA,New York,40.7130466,-74.0072301,Consumer & retail
+555,Redesign Health,United States,USA,New York,40.7130466,-74.0072301,Health
+557,Uniswap,United States,USA,New York,40.7130466,-74.0072301,Fintech
+559,Unite Us,United States,USA,New York,40.7130466,-74.0072301,Health
+590,ASAPP,United States,USA,New York,40.7130466,-74.0072301,Artificial intelligence
+597,Capitolis,United States,USA,New York,40.7130466,-74.0072301,Fintech
+606,Alloy,United States,USA,New York,40.7130466,-74.0072301,Fintech
+614,OpenWeb,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+617,Bilt Rewards,United States,USA,New York,40.7130466,-74.0072301,Fintech
+634,K Health,United States,USA,New York,40.7130466,-74.0072301,Health
+652,Andela,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+654,candy.com,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+656,Lusha,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+662,Il Makiage,United States,USA,New York,40.7130466,-74.0072301,E-commerce & direct-to-consumer
+680,VTS,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+690,Justworks,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+703,Symphony,United States,USA,New York,40.7130466,-74.0072301,Fintech
+707,Away,United States,USA,New York,40.7130466,-74.0072301,E-commerce & direct-to-consumer
+710,Yotpo,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+713,Stash,United States,USA,New York,40.7130466,-74.0072301,Fintech
+731,Movable Ink,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+743,Athletic Greens,United States,USA,New York,40.7130466,-74.0072301,Health
+749,The Brandtech Group,United States,USA,New York,40.7130466,-74.0072301,Other
+754,DistroKid,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+756,Betterment,United States,USA,New York,40.7130466,-74.0072301,Fintech
+759,Lukka,United States,USA,New York,40.7130466,-74.0072301,Fintech
+764,Loadsmart,United States,USA,New York,40.7130466,-74.0072301,"Supply chain, logistics, & delivery"
+781,BigID,United States,USA,New York,40.7130466,-74.0072301,Cybersecurity
+796,SeatGeek,United States,USA,New York,40.7130466,-74.0072301,E-commerce & direct-to-consumer
+802,Kallyope,United States,USA,New York,40.7130466,-74.0072301,Health
+807,Glossier,United States,USA,New York,40.7130466,-74.0072301,Consumer & retail
+811,Public,United States,USA,New York,40.7130466,-74.0072301,Fintech
+815,Jokr,United States,USA,New York,40.7130466,-74.0072301,"Supply chain, logistics, & delivery"
+823,DailyPay,United States,USA,New York,40.7130466,-74.0072301,Fintech
+840,Unit,United States,USA,New York,40.7130466,-74.0072301,Fintech
+874,Sisense,United States,USA,New York,40.7130466,-74.0072301,Data management & analytics
+879,Rightway,United States,USA,New York,40.7130466,-74.0072301,Health
+892,Daily Harvest,United States,USA,New York,40.7130466,-74.0072301,E-commerce & direct-to-consumer
+899,Beyond Identity,United States,USA,New York,40.7130466,-74.0072301,Cybersecurity
+901,Chief,United States,USA,New York,40.7130466,-74.0072301,Other
+909,CAIS,United States,USA,New York,40.7130466,-74.0072301,Fintech
+935,Flow,United States,USA,New York,40.7130466,-74.0072301,Fintech
+982,MediaMath,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+984,Pat McGrath Labs,United States,USA,New York,40.7130466,-74.0072301,Consumer & retail
+1029,Newsela,United States,USA,New York,40.7130466,-74.0072301,Edtech
+1042,Injective Protocol,United States,USA,New York,40.7130466,-74.0072301,Fintech
+1045,Capsule,United States,USA,New York,40.7130466,-74.0072301,Health
+1057,Vise,United States,USA,New York,40.7130466,-74.0072301,Fintech
+1061,Thirty Madison,United States,USA,New York,40.7130466,-74.0072301,Health
+1068,Claroty,United States,USA,New York,40.7130466,-74.0072301,Cybersecurity
+1070,Aircall,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+1072,SmartAsset,United States,USA,New York,40.7130466,-74.0072301,Fintech
+1085,Bluecore,United States,USA,New York,40.7130466,-74.0072301,Artificial intelligence
+1089,Maven Clinic,United States,USA,New York,40.7130466,-74.0072301,Health
+1096,Orchard,United States,USA,New York,40.7130466,-74.0072301,Fintech
+1105,TrialSpark,United States,USA,New York,40.7130466,-74.0072301,Health
+1108,Masterworks,United States,USA,New York,40.7130466,-74.0072301,Fintech
+1109,Chronosphere,United States,USA,New York,40.7130466,-74.0072301,Data management & analytics
+1118,Fabric,United States,USA,New York,40.7130466,-74.0072301,"Supply chain, logistics, & delivery"
+1119,Augury,United States,USA,New York,40.7130466,-74.0072301,Artificial intelligence
+1126,Wrapbook,United States,USA,New York,40.7130466,-74.0072301,Fintech
+1132,Owkin,United States,USA,New York,40.7130466,-74.0072301,Artificial Intelligence
+1137,YipitData,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+1146,Cadence,United States,USA,New York,40.7130466,-74.0072301,Health
+1160,Esusu,United States,USA,New York,40.7130466,-74.0072301,Fintech
+1167,CHEQ,United States,USA,New York,40.7130466,-74.0072301,Cybersecurity
+1169,Timescale,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+1172,BlueVoyant,United States,USA,New York,40.7130466,-74.0072301,Cybersecurity
+1175,Gauntlet Networks,United States,USA,New York,40.7130466,-74.0072301,Fintech
+1177,Glia,United States,USA,New York,40.7130466,-74.0072301,Fintech
+1182,Electric,United States,USA,New York,40.7130466,-74.0072301,Cybersecurity
+1183,LayerZero Labs,United States,USA,New York,40.7130466,-74.0072301,Internet software & services
+296,BlockFi,United States,USA,Jersey City,40.714,-74.071,Fintech
+116,Attentive,United States,USA,Hoboken,40.75,-74.03,Mobile & telecommunications
+246,Celsius Network,United States,USA,Hoboken,40.75,-74.03,Fintech
+746,MasterControl,United States,USA,Salt Lake City,40.75,-111.883333,Health
+856,Venafi,United States,USA,Salt Lake City,40.75,-111.883333,Cybersecurity
+875,Pharmapacks,United States,USA,Islandia,40.804722,-73.172778,E-commerce & direct-to-consumer
+1081,Carson Group,United States,USA,Lincoln,40.813599,-96.70261,Fintech
+773,Equashield,United States,USA,Port Washington,40.830866,-73.684175,Health
+316,Cross River Bank,United States,USA,Fort Lee,40.85064,-73.971007,Fintech
+260,OwnBackup,United States,USA,Englewood Cliffs,40.889682,-73.942047,Data management & analytics
+1018,Boom Supersonic,United States,USA,Englewood,40.891197,-73.972515,Other
+63,Getir,Turkey,TUR,Istanbul,41.013,28.9638,"Supply chain, logistics, & delivery"
+332,Dream Games,Turkey,TUR,Istanbul,41.013,28.9638,Mobile & telecommunications
+801,Insider,Turkey,TUR,Istanbul,41.013,28.9638,Internet software & services
+760,TravelPerk,Spain,ESP,Barcelona,41.387917,2.1699187,Travel
+1190,Factorial,Spain,ESP,Barcelona,41.387917,2.1699187,Internet software & services
+75,Tempus,United States,USA,Chicago,41.883229,-87.632398,Health
+234,Relativity,United States,USA,Chicago,41.883229,-87.632398,Internet software & services
+297,ActiveCampaign,United States,USA,Chicago,41.883229,-87.632398,Internet software & services
+391,Project44,United States,USA,Chicago,41.883229,-87.632398,"Supply chain, logistics, & delivery"
+399,Uptake,United States,USA,Chicago,41.883229,-87.632398,Artificial intelligence
+443,Avant,United States,USA,Chicago,41.883229,-87.632398,Artificial intelligence
+687,M1,United States,USA,Chicago,41.883229,-87.632398,Fintech
+825,Copado,United States,USA,Chicago,41.883229,-87.632398,Data management & analytics
+882,G2,United States,USA,Chicago,41.883229,-87.632398,Internet software & services
+965,SMS Assist,United States,USA,Chicago,41.883229,-87.632398,Internet software & services
+1036,Cameo,United States,USA,Chicago,41.883229,-87.632398,Internet software & services
+1039,Clearcover,United States,USA,Chicago,41.883229,-87.632398,Fintech
+1056,Amount,United States,USA,Chicago,41.883229,-87.632398,Fintech
+1075,ShipBob,United States,USA,Chicago,41.883229,-87.632398,"Supply chain, logistics, & delivery"
+1129,Heyday,United States,USA,Chicago,41.883229,-87.632398,E-commerce & direct-to-consumer
+1142,Nature's Fynd,United States,USA,Chicago,41.883229,-87.632398,Consumer & retail
+1204,FourKites,United States,USA,Chicago,41.883229,-87.632398,"Supply chain, logistics, & delivery"
+618,Mu Sigma,United States,USA,Northbrook,42.129167,-87.840833,Data management & analytics
+51,Thrasio,United States,USA,Walpole,42.141667,-71.25,E-commerce & direct-to-consumer
+745,Alzheon,United States,USA,Framingham,42.279167,-71.416667,Health
+791,airSlate,United States,USA,Brookline,42.331667,-71.121667,Internet software & services
+218,StockX,United States,USA,Detroit,42.3329407,-83.0478365,E-commerce & direct-to-consumer
+57,Klaviyo,United States,USA,Boston,42.358056,-71.063611,Internet software & services
+89,Snyk,United States,USA,Boston,42.358056,-71.063611,Cybersecurity
+107,DataRobot,United States,USA,Boston,42.358056,-71.063611,Artificial intelligence
+158,Reify Health,United States,USA,Boston,42.358056,-71.063611,Health
+179,OutSystems,United States,USA,Boston,42.358056,-71.063611,Internet software & services
+184,Globalization Partners,United States,USA,Boston,42.358056,-71.063611,Internet software & services
+217,Intarcia Therapeutics,United States,USA,Boston,42.358056,-71.063611,Health
+235,Whoop,United States,USA,Boston,42.358056,-71.063611,E-commerce & direct-to-consumer
+240,Indigo Ag,United States,USA,Boston,42.358056,-71.063611,Artificial intelligence
+261,Starburst,United States,USA,Boston,42.358056,-71.063611,Data management & analytics
+289,Circle,United States,USA,Boston,42.358056,-71.063611,Fintech
+377,Cybereason,United States,USA,Boston,42.358056,-71.063611,Cybersecurity
+386,BitSight Technologies,United States,USA,Boston,42.358056,-71.063611,Cybersecurity
+417,Motif FoodWorks,United States,USA,Boston,42.358056,-71.063611,Consumer & retail
+507,Salsify,United States,USA,Boston,42.358056,-71.063611,Internet software & services
+527,ConcertAI,United States,USA,Boston,42.358056,-71.063611,Artificial Intelligence
+532,CFGI,United States,USA,Boston,42.358056,-71.063611,Fintech
+595,ezCater,United States,USA,Boston,42.358056,-71.063611,"Supply chain, logistics, & delivery"
+770,Biofourmis,United States,USA,Boston,42.358056,-71.063611,Health
+866,Wasabi,United States,USA,Boston,42.358056,-71.063611,Internet software & services
+1174,Vendr,United States,USA,Boston,42.358056,-71.063611,Fintech
+1200,Immuta,United States,USA,Boston,42.358056,-71.063611,Data management & analytics
+27,Devoted Health,United States,USA,Waltham,42.380596,-71.235005,Health
+578,Infinidat,United States,USA,Waltham,42.380596,-71.235005,Hardware
+1184,BostonGene,United States,USA,Waltham,42.380596,-71.235005,Health
+449,Formlabs,United States,USA,Somerville,42.3875,-71.1,Hardware
+804,Our Next Energy,United States,USA,Novi,42.480556,-83.475556,Other
+371,Fetch Rewards,United States,USA,Madison,43.067,-89.4,E-commerce & direct-to-consumer
+579,Afiniti,Bermuda,BMU,Hamilton,43.25,-79.866667,Artificial intelligence
+293,ApplyBoard,Canada,CAN,Kitchener,43.4497868,-80.4890892,Edtech
+898,eSentire,Canada,CAN,Waterloo,43.466667,-80.516667,Cybersecurity
+1166,Axelar,Canada,CAN,Waterloo,43.466667,-80.516667,Internet software & services
+199,PointClickCare,Canada,CAN,Mississauga,43.6,-79.65,Internet software & services
+1112,Swile,France,FRA,Montpellier,43.6082928,3.8796033,Fintech
+787,Tackle.io,United States,USA,Boise,43.615791,-116.201579,Internet software & services
+98,1Password,Canada,CAN,Toronto,43.6518927,-79.381713,Cybersecurity
+465,Clearco,Canada,CAN,Toronto,43.6518927,-79.381713,Fintech
+696,Figment,Canada,CAN,Toronto,43.6518927,-79.381713,Internet software & services
+818,Ada Support,Canada,CAN,Toronto,43.6518927,-79.381713,Artificial intelligence
+936,Xanadu,Canada,CAN,Toronto,43.6518927,-79.381713,Hardware
+1052,TensTorrent,Canada,CAN,Toronto,43.6518927,-79.381713,Artificial intelligence
+1086,Freshbooks,Canada,CAN,Toronto,43.6518927,-79.381713,Fintech
+222,Dutchie,United States,USA,Bend,44.05,-121.3,E-commerce & direct-to-consumer
+390,Beta Technologies,United States,USA,South Burlington,44.451944,-73.181667,Other
+361,Aura,United States,USA,Burlington,44.475833,-73.211944,Cybersecurity
+1205,VulcanForms,United States,USA,Burlington,44.475833,-73.211944,"Supply chain, logistics, & delivery"
+178,Arctic Wolf Networks,United States,USA,Eden Prairie,44.854033,-93.46017,Cybersecurity
+1013,Infobip,Croatia,HRV,Vodnjan,44.9602473,13.8496994,Mobile & telecommunications
+1155,Assent,Canada,CAN,Ottawa,45.4204213,-75.6924321,"Supply chain, logistics, & delivery"
+1186,Genies,United States,USA,Venice,45.434608,12.338913,Internet software & services
+941,Satispay,Italy,ITA,Milan,45.4636183,9.1881156,Fintech
+1170,Scalapay,Italy,ITA,Milan,45.4636183,9.1881156,Fintech
+150,Hopper,Canada,CAN,Montreal,45.509062,-73.553363,Travel
+186,SSENSE,Canada,CAN,Montreal,45.509062,-73.553363,E-commerce & direct-to-consumer
+546,Orca Security,United States,USA,Portland,45.52,-122.681944,Cybersecurity
+513,Rimac Automobili,Croatia,HRV,Sveta Nedelja,45.7968492,15.7756968,Auto & transportation
+902,IntelyCare,United States,USA,Quincy,46.1444707,-123.161373,Health
+963,MindMaze,Switzerland,CHE,Lausanne,46.519833,6.6335,Health
+877,Nexthink,Switzerland,CHE,Prilly,46.533333,6.6,Data management & analytics
+938,Celestia,Liechtenstein,LIE,Vaduz,47.141,9.5209,Internet software & services
+1005,Numbrs,Switzerland,CHE,Zurich,47.366667,8.55,Fintech
+1163,Scandit,Switzerland,CHE,Zurich,47.366667,8.55,"Supply chain, logistics, & delivery"
+175,Outreach,United States,USA,Seattle,47.603229,-122.33028,Internet software & services
+220,Convoy,United States,USA,Seattle,47.603229,-122.33028,"Supply chain, logistics, & delivery"
+242,Rec Room,United States,USA,Seattle,47.603229,-122.33028,Internet software & services
+248,Highspot,United States,USA,Seattle,47.603229,-122.33028,Internet software & services
+616,First Mode,United States,USA,Seattle,47.603229,-122.33028,Other
+714,Rad Power Bikes,United States,USA,Seattle,47.603229,-122.33028,Auto & transportation
+809,Qumulo,United States,USA,Seattle,47.603229,-122.33028,Data management & analytics
+843,Swiftly,United States,USA,Seattle,47.603229,-122.33028,Mobile & telecommunications
+867,Flexe,United States,USA,Seattle,47.603229,-122.33028,"Supply chain, logistics, & delivery"
+889,Karat,United States,USA,Seattle,47.603229,-122.33028,Internet software & services
+1077,Amperity,United States,USA,Seattle,47.603229,-122.33028,Artificial intelligence
+149,Icertis,United States,USA,Bellevue,47.6137024,-122.1909341,Artificial intelligence
+633,Zenoti,United States,USA,Bellevue,47.6137024,-122.1909341,Internet software & services
+668,Temporales,United States,USA,Bellevue,47.6137024,-122.1909341,Internet software & services
+669,Fabric,United States,USA,Bellevue,47.6137024,-122.1909341,E-commerce & direct-to-consumer
+832,SeekOut,United States,USA,Bellevue,47.6137024,-122.1909341,Internet software & services
+252,Helion Energy,United States,USA,Redmond,47.674913,-122.123995,Other
+60,Tanium,United States,USA,Kirkland,47.6755061,-122.2033642,Cybersecurity
+253,Acronis,Switzerland,CHE,Schaffhausen,47.697545,8.6351731,Cybersecurity
+25,Celonis,Germany,DEU,Munich,48.1391264,11.5802189,Data management & analytics
+69,Personio,Germany,DEU,Munich,48.1391264,11.5802189,Internet software & services
+291,FlixMobility,Germany,DEU,Munich,48.1391264,11.5802189,Auto & transportation
+724,Scalable Capital,Germany,DEU,Munich,48.1391264,11.5802189,Fintech
+1094,Agile Robots,Germany,DEU,Munich,48.1391264,11.5802189,Hardware
+408,NuCom Group,Germany,DEU,Unterfoehring,48.192264,11.64041,Other
+188,BitPanda,Austria,AUT,Vienna,48.210033,16.363449,Fintech
+247,GoStudent,Austria,AUT,Vienna,48.210033,16.363449,Edtech
+53,KuCoin,Seychelles,SYC,Victoria,48.4275,-123.367259,Fintech
+996,Ynsect,France,FRA,Evry,48.6238,2.4296,Other
+1130,PLACE,United States,USA,Bellingham,48.7548994,-122.4781217,Internet software & services
+105,Doctolib,France,FRA,Paris,48.856895,2.3508487,Health
+122,Back Market,France,FRA,Paris,48.856895,2.3508487,E-commerce & direct-to-consumer
+127,ContentSquare,France,FRA,Paris,48.856895,2.3508487,Internet software & services
+147,Qonto,France,FRA,Paris,48.856895,2.3508487,Fintech
+180,Sorare,France,FRA,Paris,48.856895,2.3508487,Internet software & services
+244,Mirakl,France,FRA,Paris,48.856895,2.3508487,E-commerce & direct-to-consumer
+325,Alan,France,FRA,Paris,48.856895,2.3508487,Fintech
+342,ManoMano,France,FRA,Paris,48.856895,2.3508487,E-commerce & direct-to-consumer
+397,Voodoo,France,FRA,Paris,48.856895,2.3508487,Other
+445,BlaBlaCar,France,FRA,Paris,48.856895,2.3508487,Auto & transportation
+518,Ankorstore,France,FRA,Paris,48.856895,2.3508487,E-commerce & direct-to-consumer
+562,Vestiaire Collective,France,FRA,Paris,48.856895,2.3508487,E-commerce & direct-to-consumer
+639,Ledger,France,FRA,Paris,48.856895,2.3508487,Hardware
+663,Spendesk,France,FRA,Paris,48.856895,2.3508487,Fintech
+853,Younited,France,FRA,Paris,48.856895,2.3508487,Fintech
+944,EcoVadis,France,FRA,Paris,48.856895,2.3508487,"Supply chain, logistics, & delivery"
+1002,Meero,France,FRA,Paris,48.856895,2.3508487,Artificial intelligence
+1051,Shift Technology,France,FRA,Paris,48.856895,2.3508487,Artificial intelligence
+1116,Dental Monitoring,France,FRA,Paris,48.856895,2.3508487,Health
+1143,Lydia,France,FRA,Paris,48.856895,2.3508487,Fintech
+529,Volocopter,Germany,DEU,Bruchsal,49.1257981,8.5976818,Auto & transportation
+583,Clio,Canada,CAN,Burnaby,49.2432451,-122.9741895,Internet software & services
+83,Dapper Labs,Canada,CAN,Vancouver,49.2635657,-123.1385715,Internet software & services
+274,Blockstream,Canada,CAN,Vancouver,49.2635657,-123.1385715,Fintech
+543,Trulioo,Canada,CAN,Vancouver,49.2635657,-123.1385715,Cybersecurity
+798,Nexii,Canada,CAN,Vancouver,49.2635657,-123.1385715,Other
+1074,Visier,Canada,CAN,Vancouver,49.2635657,-123.1385715,Internet software & services
+478,OCSiAl,Luxembourg,LUX,Leudelange,49.566667,6.066667,Other
+820,Rohlik Group,Czech Republic,CZE,Prague,50.089748,14.3984,"Supply chain, logistics, & delivery"
+255,Odoo,Belgium,BEL,Louvain-la-Neuve,50.6696026,4.6112108,Internet software & services
+501,Exotec,France,FRA,Croix,50.6749078,3.1483151,Hardware
+871,OVH,France,FRA,Roubaix,50.7,3.17,Other
+900,Staffbase,Germany,DEU,Chemnitz,50.8326968,12.924215,Internet software & services
+130,Collibra,Belgium,BEL,Brussels,50.836025,4.370705,Data management & analytics
+602,Promasidor Holdings,South Africa,ZAF,Bryanston,50.862506,-2.185209,Consumer & retail
+929,DeepL,Germany,DEU,Cologne,50.940533,6.9599054,Internet software & services
+698,Deliverect,Belgium,BEL,Ghent,51.05,3.733333,Fintech
+324,DriveWealth,United States,USA,Chatham,51.361,0.5362,Fintech
+329,Graphcore,United Kingdom,GBR,Bristol,51.454514,-2.58791,Artificial intelligence
+775,OVO Energy,United Kingdom,GBR,Bristol,51.454514,-2.58791,Other
+1050,Augustinus Bader,United Kingdom,GBR,London,51.5001524,-0.1262362,Consumer & retail
+6,Checkout.com,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+7,Revolut,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+22,Blockchain.com,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+40,Global Switch,United Kingdom,GBR,London,51.5001524,-0.1262362,Hardware
+64,Rapyd,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+71,SumUp,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+84,Hopin,United Kingdom,GBR,London,51.5001524,-0.1262362,Internet software & services
+139,Howden Group Holdings,United Kingdom,GBR,London,51.5001524,-0.1262362,Other
+141,ZEPZ,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+142,OakNorth Bank,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+166,Lendable,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+170,Monzo,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+194,Greensill,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+258,Improbable,United Kingdom,GBR,London,51.5001524,-0.1262362,Other
+339,Thought Machine,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+340,Starling Bank,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+393,ManyPets,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+432,GoCardless,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+470,PayFit,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+494,Zilch,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+553,Multiverse,United Kingdom,GBR,London,51.5001524,-0.1262362,Edtech
+624,Gett,United Kingdom,GBR,London,51.5001524,-0.1262362,Auto & transportation
+676,5ire,United Kingdom,GBR,London,51.5001524,-0.1262362,Internet software & services
+717,Paddle,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+728,Tripledot,United Kingdom,GBR,London,51.5001524,-0.1262362,Mobile & telecommunications
+738,Motorway,United Kingdom,GBR,London,51.5001524,-0.1262362,E-commerce & direct-to-consumer
+783,Marshmallow,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+878,Zego,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+893,The Bank of London,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+934,Beamery,United Kingdom,GBR,London,51.5001524,-0.1262362,Artificial intelligence
+939,Stability AI,United Kingdom,GBR,London,51.5001524,-0.1262362,Artificial intelligence
+1016,Gousto,United Kingdom,GBR,London,51.5001524,-0.1262362,"Supply chain, logistics, & delivery"
+1022,PPRO,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+1044,SaltPay,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+1065,Tractable,United Kingdom,GBR,London,51.5001524,-0.1262362,Artificial intelligence
+1098,TrueLayer,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+1115,Zopa,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+1164,Payhawk,United Kingdom,GBR,London,51.5001524,-0.1262362,Fintech
+239,Otto Bock HealthCare,Germany,DEU,Duderstadt,51.5125,10.259722,Health
+842,Spectrum Medical,United Kingdom,GBR,Gloucester,51.87,-2.24,Health
+419,Accelerant,United Kingdom,GBR,Colchester,51.8917,0.903,Other
+298,CMR Surgical,United Kingdom,GBR,Cambridge,52.205,0.119,Health
+511,Devo Technology,United States,USA,Cambridge,52.205,0.119,Data management & analytics
+556,Tessera Therapeutics,United States,USA,Cambridge,52.205,0.119,Health
+588,Generate Biomedicines,United States,USA,Cambridge,52.205,0.119,Health
+621,Orna Therapeutics,United States,USA,Cambridge,52.205,0.119,Health
+630,Cambridge Mobile Telematics,United States,USA,Cambridge,52.205,0.119,Auto & transportation
+797,EQRx,United States,USA,Cambridge,52.205,0.119,Health
+1047,Inari,United States,USA,Cambridge,52.205,0.119,Other
+1110,Solo.io,United States,USA,Cambridge,52.205,0.119,Internet software & services
+563,Dragos,United States,USA,Hanover,52.366667,9.716667,Cybersecurity
+103,Mollie,Netherlands,NLD,Amsterdam,52.3731663,4.8906596,Fintech
+137,Mambu,Netherlands,NLD,Amsterdam,52.3731663,4.8906596,Fintech
+219,MessageBird,Netherlands,NLD,Amsterdam,52.3731663,4.8906596,Mobile & telecommunications
+341,BackBase,Netherlands,NLD,Amsterdam,52.3731663,4.8906596,Fintech
+474,Bunq,Netherlands,NLD,Amsterdam,52.3731663,4.8906596,Fintech
+993,BitFury,Netherlands,NLD,Amsterdam,52.3731663,4.8906596,Hardware
+1009,Hotmart,Netherlands,NLD,Amsterdam,52.3731663,4.8906596,E-commerce & direct-to-consumer
+686,Gymshark,United Kingdom,GBR,Solihull,52.412903,-1.772094,E-commerce & direct-to-consumer
+56,N26,Germany,DEU,Berlin,52.520008,13.404954,Fintech
+128,Trade Republic,Germany,DEU,Berlin,52.520008,13.404954,Fintech
+134,Flink,Germany,DEU,Berlin,52.520008,13.404954,E-commerce & direct-to-consumer
+172,wefox,Germany,DEU,Berlin,52.520008,13.404954,Fintech
+302,Contentful,Germany,DEU,Berlin,52.520008,13.404954,Internet software & services
+434,Forto,Germany,DEU,Berlin,52.520008,13.404954,"Supply chain, logistics, & delivery"
+491,Tier,Germany,DEU,Berlin,52.520008,13.404954,Travel
+576,solarisBank,Germany,DEU,Berlin,52.520008,13.404954,Fintech
+838,Choco,Germany,DEU,Berlin,52.520008,13.404954,E-commerce & direct-to-consumer
+872,GetYourGuide,Germany,DEU,Berlin,52.520008,13.404954,Travel
+876,Sennder,Germany,DEU,Berlin,52.520008,13.404954,"Supply chain, logistics, & delivery"
+890,Enpal,Germany,DEU,Berlin,52.520008,13.404954,Internet software & services
+991,Omio,Germany,DEU,Berlin,52.520008,13.404954,Travel
+1093,Berlin Brands Group,Germany,DEU,Berlin,52.520008,13.404954,E-commerce & direct-to-consumer
+1123,Razor,Germany,DEU,Berlin,52.520008,13.404954,Consumer & retail
+1144,SellerX,Germany,DEU,Berlin,52.520008,13.404954,E-commerce & direct-to-consumer
+1152,InFarm,Germany,DEU,Berlin,52.520008,13.404954,Other
+1185,Grover,Germany,DEU,Berlin,52.520008,13.404954,E-commerce & direct-to-consumer
+1192,Taxfix,Germany,DEU,Berlin,52.520008,13.404954,Fintech
+288,BGL Group,United Kingdom,GBR,Peterborough,52.5733865,-0.2484614,Fintech
+945,TransferMate,Ireland,IRL,Kilkenny,52.6537443,-7.2479557,Fintech
+914,Radius Payment Solutions,United Kingdom,GBR,Crewe,53.099,-2.44,Fintech
+202,BrowserStack,Ireland,IRL,Dublin,53.3440956,-6.2674862,Internet software & services
+596,Wayflyer,Ireland,IRL,Dublin,53.3440956,-6.2674862,Fintech
+788,Flipdish,Ireland,IRL,Dublin,53.3440956,-6.2674862,Internet software & services
+808,Workhuman,Ireland,IRL,Dublin,53.3440956,-6.2674862,Internet software & services
+1062,LetsGetChecked,Ireland,IRL,Dublin,53.3440956,-6.2674862,Health
+1122,Vagaro,United States,USA,Dublin,53.3440956,-6.2674862,Internet software & services
+649,Matillion,United Kingdom,GBR,Altrincham,53.389631,-2.3468278,Data management & analytics
+167,Vinted,Lithuania,LTU,Vilnius,54.683333,25.283333,E-commerce & direct-to-consumer
+598,Nord Security,Lithuania,LTU,Vilnius,54.683333,25.283333,Cybersecurity
+161,Pleo,Denmark,DNK,Copenhagen,55.675757,12.5690233,Fintech
+505,Lunar,Denmark,DNK,Aarhus,56.147824,10.206909,Fintech
+793,BrewDog,United Kingdom,GBR,Aberdeen,57.1526,-2.11,Consumer & retail
+59,Northvolt,Sweden,SWE,Stockholm,59.329444,18.068611,Other
+99,Klarna,Sweden,SWE,Stockholm,59.329444,18.068611,Fintech
+467,KRY,Sweden,SWE,Stockholm,59.329444,18.068611,Health
+689,Einride,Sweden,SWE,Stockholm,59.329444,18.068611,Auto & transportation
+709,Epidemic Sound,Sweden,SWE,Stockholm,59.329444,18.068611,Internet software & services
+1149,VOI,Sweden,SWE,Stockholm,59.329444,18.068611,Travel
+1194,Polarium,Sweden,SWE,Kista,59.401389,17.944444,Other
+72,Bolt,Estonia,EST,Tallinn,59.4426896,24.7531972,Auto & transportation
+664,Veriff,Estonia,EST,Tallinn,59.4426896,24.7531972,Artificial intelligence
+1088,Gelato,Norway,NOR,Oslo,59.911491,10.757933,E-commerce & direct-to-consumer
+1162,Dune Analytics,Norway,NOR,Oslo,59.911491,10.757933,Data management & analytics
+1196,Remarkable,Norway,NOR,Oslo,59.911491,10.757933,Internet software & services
+589,Cognite,Norway,NOR,Lysaker,59.9127139,10.6348825,Data management & analytics
+123,RELEX,Finland,FIN,Helsinki,60.1698081,24.9381283,"Supply chain, logistics, & delivery"
+269,Aiven,Finland,FIN,Helsinki,60.1698081,24.9381283,Internet software & services
+978,HMD Global,Finland,FIN,Espoo,60.2052348,24.6540815,Mobile & telecommunications
+351,Oura,Finland,FIN,Oulu,65.012655,25.471386,Health
+534,Scroll,Seychelles,SYC,,,,Fintech

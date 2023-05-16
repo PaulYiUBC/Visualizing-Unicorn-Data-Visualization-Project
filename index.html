@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>D3 Project Starter Template</title>
+    <meta charset="UTF-8">
+    <link rel="icon" href="data:;base64,iVBORwOKGO=" />
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/scatterplot.css">
+    <link rel="stylesheet" href="css/heatmap.css">
+    <link rel="stylesheet" href="css/forceDirectedGraph.css">
+    <link rel="stylesheet" href="css/stackedAreaChart.css" >
+    <link rel="stylesheet" href="css/choroplethMap.css">
+
+</head>
+<body>    
+    <!-- Add HTML content, SVG drawing area, ... -->
+    <div id="dashboard">
+        <div class="container-left">
+            <div class="row">
+                <div id="title">
+                    Visualizing Unicorns
+                </div>
+            </div>
+            <div class="row">
+                <div class="description">
+                    <p>Financial analysis of the biggest startups. Explore all 1,207 unicorn companies in the world as of April 2023.</p>
+                    <p>You can explore the dataset <a href="https://www.cbinsights.com/research-unicorn-companies">here</a>.</p>
+                </div>
+            </div>
+            <div class="row ">
+                <div id="controls-container">
+                    <div id="controls">
+                        <div id="year-selector">
+                            <h3>Year Joined</h3>
+                            <div>
+                                <label for="start-year" class="caption">From</label>
+                                <input type="number" id="start-year"/>
+                                <label for="end-year" class="caption">To</label>
+                                <input type="number" id="end-year"/>
+                                <div id="slider"></div>
+                            </div>
+                        </div>
+                        <div id="legend">
+                            <h3>Industries</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container-mid">
+            <div class="row">
+                <div id="scatterplot" class="vis">
+                    <h2>Top Performing Unicorns</h2>
+                    <div class="caption">
+                        Compare the 30 unicorns with the highest return on investment (ROI).<br>
+                        Scale axes by
+                        <label>
+                            <select class="scale-control">
+                                <option value="log">log scale</option>
+                                <option value="linear">linear scale</option>
+                            </select>
+                        </label>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div id="stacked-area-vis" class="vis">
+                    <h2>Unicorns Joined Over Time</h2>
+                    <div class="caption">See how the population of unicorns has evolved over the last 12 years.</div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div id="heatmap" class="vis">
+                    <h2>Hottest Industries</h2>
+                    <div class="caption">See which industries the 10 most frequent investors are funding.</div>
+                </div>
+            </div>
+        </div>
+        <div class="container-right">
+            <div class="row">
+                <div id="network-vis" class="vis">
+                    <h2>Financial Networking</h2>
+                    <div class="caption">Explore in detail the investments and returns of the 10 most frequent investors.<br>
+                        Scale company nodes by
+                        <label>
+                            <select class="scale-control">
+                                <option value="log">log scale</option>
+                                <option value="linear">linear scale</option>
+                            </select>
+                        </label>
+                    </div>
+                    <div class="search-bar-container">
+                        <input type="text" id="network-search" placeholder="company or investor name">
+                        <button id="network-search-button">Search</button>
+                        <div id="network-search-feedback"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div id="margin" class="vis">
+                </div>
+            </div>
+
+            <div class="row">
+                <!--TODO: html for world map visualization-->
+                <div id= "choropleth-map-vis" class="vis">
+                    <h2>Number of Unicorns by Country</h2>
+                    <div class="caption">Explore how many unicorns are founded in each country.</div>
+                    <div id="choropleth-map"></div>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <div id="tooltip"></div>
+    </div>
+
+    <!-- D3 bundle -->
+    <script src="js/d3.v6.min.js"></script>
+
+    <!-- d3-symbol-extra -->
+    <script src="https://cdn.jsdelivr.net/npm/d3-symbol-extra@0.1.0/build/d3-symbol-extra.min.js"></script>
+
+    <!-- Our JS code -->
+    <script src="js/util.js"></script>
+    <script src="js/legend.js"></script>
+    <script src="js/scentedSlider.js"></script>
+    <script src="js/scatterplot.js"></script>
+    <script src="js/heatmap.js"></script>
+    <script src="js/forceDirectedGraph.js"></script>
+
+    <script src="js/stackedAreaChart.js"></script>
+
+    <script src="js/choroplethMap.js"></script>
+
+    <!--        <div id= "geo-map-vis">-->
+    <!--            <h2>Number of Unicorns by Cities</h2>-->
+    <!--            <div class="caption">See which cities are home to the most unicorns and leading industries</div>-->
+    <!--            <div id="geo-map"></div>-->
+    <!--        </div>-->
+
+    <script src="js/main.js"></script>
+</body>
+</html>

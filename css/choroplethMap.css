@@ -1,0 +1,10 @@
+/* Marks */
+
+#choropleth-map-vis .country:hover {
+    stroke: #333;
+}
+#scatterplot .country.selected {
+    stroke: black;
+    fill-opacity: 1;
+    stroke-width: 2px;
+}
